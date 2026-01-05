@@ -1,7 +1,7 @@
 ---
 title: "Blinds"
 weight: 3
-tasks_completed: 4
+tasks_completed: 6
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -12,6 +12,7 @@ Window blinds installation throughout the first floor.
 
 ## Completed
 
+- ✅ Measure all windows
 - ✅ Family room - single and double window
 - ✅ Kitchen - 3 bay and 1 sink window
 - ✅ Dining room - 1 window
