@@ -7,3 +7,5 @@ bookCollapseSection: true
 # First Floor
 
 Projects and improvements for the main level of the house.
+
+{{< room-progress-list >}}

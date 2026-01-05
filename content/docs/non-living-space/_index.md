@@ -1,17 +1,17 @@
 ---
-title: "Outside"
+title: "Non-living Space"
 weight: 3
 bookCollapseSection: true
-tasks_completed: 61
+tasks_completed: 88
 tasks_in_progress: 0
-tasks_planned: 0
+tasks_planned: 1
 ---
 
-# Outside
+# Non-living Space
 
-Exterior projects including the deck, landscaping, and structural improvements.
+Exterior, garage, and below-grade spaces.
 
-## Deck
+## Outside - Deck
 - ✅ Create new deck design <!-- medium -->
 - ✅ Apply for permit <!-- small -->
 - ✅ Remove old deck <!-- medium -->
@@ -24,7 +24,7 @@ Exterior projects including the deck, landscaping, and structural improvements.
 - ✅ Install railing <!-- small -->
 - ✅ Stain deck <!-- medium -->
 
-## Exterior Painting
+## Outside - Exterior Painting
 - ✅ Pressure washing <!-- medium -->
 - ✅ Recaulk joints <!-- medium -->
 - ✅ Repaint trim <!-- large -->
@@ -34,16 +34,44 @@ Exterior projects including the deck, landscaping, and structural improvements.
 - ✅ Replace rotting wood trim piece section in rear <!-- medium -->
 - ✅ Repaint shutters (white to black) <!-- medium -->
 
-## Front Entrance
+## Outside - Front Entrance
 - ✅ Replace front porch light <!-- quick -->
 - ✅ Replace broken doorbell button <!-- quick -->
 
-## Mailbox
+## Outside - Mailbox
 - ✅ Repaint mailbox post <!-- small -->
 - ✅ Replace mailbox <!-- quick -->
 - ✅ Replace address numbers on mailbox post <!-- quick -->
 
-## Landscaping
-
-## Roof
+## Outside - Roof
 - ✅ Replace roofing (hired out) <!-- small -->
+
+## Outside - Landscaping
+
+## Garage - Opener
+- ✅ Install keypad opener <!-- small -->
+
+## Garage - Electrical
+- ✅ Install outside coach lights and switch <!-- small -->
+
+## Garage - Entrance Door
+- ✅ Repaint entrance door <!-- small -->
+- ✅ Replace door knob w/ rekey <!-- small -->
+- ✅ Replace trim molding and weather stripping around door frame <!-- medium -->
+- ⏳ Replace weather stripping on entrance door <!-- quick -->
+
+## Basement - Mechanicals
+- ✅ Replace HVAC <!-- medium -->
+- ✅ Replace water heater <!-- small -->
+- ✅ Replace sump pump <!-- small -->
+
+## Basement - Plumbing
+- ✅ Install utility sink <!-- small -->
+
+## Basement - Electrical
+- ✅ Rewire overhead lighting for single switch <!-- small -->
+- ✅ Add two additional outlets <!-- small -->
+- ✅ Add structured wiring panel for network and A/V <!-- small -->
+
+## Basement - Crawl Space
+- ✅ Replace plastic vapor barrier <!-- quick -->

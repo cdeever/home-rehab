@@ -7,3 +7,5 @@ bookCollapseSection: true
 # Second Floor
 
 Projects and improvements for the upstairs level.
+
+{{< room-progress-list >}}
