@@ -2,7 +2,7 @@
 title: "Basement"
 weight: 4
 bookCollapseSection: true
-tasks_completed: 15
+tasks_completed: 16
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -25,3 +25,6 @@ Below-grade spaces and mechanical systems.
 - ✅ Rewire overhead lighting for single switch <!-- small -->
 - ✅ Add two additional outlets <!-- small -->
 - ✅ Add structured wiring panel for network and A/V <!-- small -->
+
+### Crawl Space
+- ✅ Replace plastic vapor barrier <!-- quick -->
