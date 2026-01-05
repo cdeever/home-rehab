@@ -1,7 +1,7 @@
 ---
 title: "Hallway"
 weight: 3
-tasks_completed: 0
+tasks_completed: 5
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -10,4 +10,8 @@ tasks_planned: 0
 
 ## Completed
 
-## Planned
+### Front Door
+- ✅ Select door and storm door, schedule install
+- ✅ Paint door
+- ✅ Install hardware
+- ✅ Rekey locks

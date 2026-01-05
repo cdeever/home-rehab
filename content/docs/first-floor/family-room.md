@@ -1,7 +1,7 @@
 ---
 title: "Family Room"
 weight: 6
-tasks_completed: 38
+tasks_completed: 45
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -13,6 +13,9 @@ tasks_planned: 0
 ### Painting
 - ✅ Repaint ceiling
 - ✅ Patch, prime and repaint walls
+
+### Electrical
+- ✅ Replace outlets and switches (white)
 
 ### TV & Entertainment
 - ✅ Run 5.1 surround sound wiring
@@ -30,3 +33,9 @@ tasks_planned: 0
 - ✅ Install air stones
 - ✅ Paint inner brick edges black
 - ✅ Install new fireplace door
+
+### Back Door
+- ✅ Select door and storm door, schedule install
+- ✅ Paint door
+- ✅ Install hardware
+- ✅ Rekey locks
