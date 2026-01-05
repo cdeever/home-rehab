@@ -1,0 +1,22 @@
+baseURL = "https://suntree-projects.github.io/suntree-projects-docs/"
+languageCode = "en-us"
+title = "Suntree Projects"
+theme = "hugo-book"
+
+enableGitInfo = true
+
+[params]
+  BookTitle = "Contents"
+  BookTheme = "auto"
+  BookToC = true
+  BookSearch = true
+  BookMenuBundle = "/menu"
+  BookSection = "docs"
+  description = "Plans and projects for home renovation"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 4
