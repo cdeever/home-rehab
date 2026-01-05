@@ -1,7 +1,7 @@
 ---
 title: "Half Bath"
 weight: 2
-tasks_completed: 24
+tasks_completed: 27
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -11,6 +11,10 @@ tasks_planned: 0
 ## Painting
 - ✅ Paint ceiling <!-- small -->
 - ✅ Repair, prime and paint walls <!-- medium -->
+
+## Door
+- ✅ Repaint door and casing <!-- small -->
+- ✅ Replace knob and hinges <!-- quick -->
 
 ## Electrical
 - ✅ Replace electrical outlets and switch (white) <!-- small -->
