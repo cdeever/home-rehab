@@ -3,7 +3,7 @@ title: "Master Bath"
 weight: 3
 tasks_completed: 23
 tasks_in_progress: 3
-tasks_planned: 0
+tasks_planned: 10
 ---
 
 # Master Bath
@@ -41,3 +41,11 @@ tasks_planned: 0
 
 ### Subfloor
 - 🔄 Repair subfloor <!-- medium -->
+
+## Planned
+
+### Shower
+- ⏳ Install shower pan <!-- small -->
+- ⏳ Build new knee wall framing <!-- medium -->
+- ⏳ Shim and true up studs for flat surface <!-- medium -->
+- ⏳ Install vapor barrier on exterior walls <!-- small -->
