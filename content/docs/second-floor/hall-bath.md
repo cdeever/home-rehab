@@ -7,7 +7,3 @@ tasks_planned: 0
 ---
 
 # Hall Bath
-
-## Completed
-
-## Planned

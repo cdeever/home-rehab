@@ -15,5 +15,7 @@ tasks_planned: 0
 - ✅ Remove ceiling medallion and repair texture <!-- medium -->
 - ✅ Repaint ceiling <!-- medium -->
 - ✅ Patch, prime and repaint walls <!-- medium -->
+
+## Electrical
 - ✅ Replace thermostat <!-- quick -->
 - ✅ Replace outlets and switches (white) <!-- small -->
