@@ -1,7 +1,7 @@
 ---
 title: "Flooring"
 weight: 1
-tasks_completed: 48
+tasks_completed: 58
 tasks_in_progress: 7
 tasks_planned: 2
 ---
@@ -12,14 +12,12 @@ LVP flooring installation throughout the first floor, including baseboards and t
 
 ## Completed
 
-### Planning
+### Planning and Prep
 - ✅ Design, measure and planning
-
-### Furniture
+- ✅ Installation education
+- ✅ Purchase tooling
+- ✅ DIY delivery
 - ✅ Move furniture to storage unit
-- ✅ Move furniture back from storage unit
-
-### Demo
 - ✅ Remove old linoleum in kitchen, hallway, pantry and laundry room
 - ✅ Remove old carpet in family room
 - ✅ Remove old carpet in living room and dining room
@@ -39,6 +37,9 @@ LVP flooring installation throughout the first floor, including baseboards and t
 - ✅ Back door shoe molding
 - ✅ Front door shoe molding
 - ✅ Garage door entrance shoe molding
+
+### Completion
+- ✅ Move furniture back from storage unit
 
 ## In Progress
 
