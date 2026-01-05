@@ -1,25 +1,25 @@
 ---
 title: "Outside"
 weight: 1
-tasks_completed: 61
+tasks_completed: 34
 tasks_in_progress: 0
-tasks_planned: 0
+tasks_planned: 29
 ---
 
 # Outside
 
 ## Deck
-- ✅ Create new deck design <!-- medium -->
-- ✅ Apply for permit <!-- small -->
-- ✅ Remove old deck <!-- medium -->
-- ✅ Install new posts <!-- medium -->
-- ✅ Clean up gravel and add new if needed <!-- small -->
-- ✅ Install new joists <!-- medium -->
-- ✅ Install new decking board <!-- medium -->
-- ✅ Install new stair case <!-- medium -->
-- ✅ Install new landing pavers <!-- small -->
-- ✅ Install railing <!-- small -->
-- ✅ Stain deck <!-- medium -->
+- ⏳ Create new deck design <!-- medium -->
+- ⏳ Apply for permit <!-- small -->
+- ⏳ Remove old deck <!-- medium -->
+- ⏳ Install new posts <!-- medium -->
+- ⏳ Clean up gravel and add new if needed <!-- small -->
+- ⏳ Install new joists <!-- medium -->
+- ⏳ Install new decking board <!-- medium -->
+- ⏳ Install new stair case <!-- medium -->
+- ⏳ Install new landing pavers <!-- small -->
+- ⏳ Install railing <!-- small -->
+- ⏳ Stain deck <!-- medium -->
 
 ## Exterior Painting
 - ✅ Pressure washing <!-- medium -->
@@ -42,5 +42,8 @@ tasks_planned: 0
 
 ## Roof
 - ✅ Replace roofing (hired out) <!-- small -->
+
+## Audio
+- ✅ Install outdoor speakers <!-- small -->
 
 ## Landscaping

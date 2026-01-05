@@ -3,7 +3,7 @@ title: "Master Bath"
 weight: 3
 tasks_completed: 29
 tasks_in_progress: 3
-tasks_planned: 27
+tasks_planned: 32
 ---
 
 # Master Bath
@@ -23,8 +23,9 @@ tasks_planned: 27
 - ✅ Paint master bath door and casing <!-- small -->
 
 ## Electrical
-- ✅ Replace ceiling fan <!-- small -->
+- ✅ Replace exhaust fan <!-- small -->
 - ✅ Replace shower light <!-- quick -->
+- ⏳ Replace vanity light fixture <!-- small -->
 
 ## Door
 - ✅ Replace knob and hinges <!-- quick -->
@@ -45,6 +46,10 @@ tasks_planned: 27
 - ⏳ Install shower fixtures <!-- small -->
 - ⏳ Install glass surround <!-- medium -->
 - ⏳ Apply sealant <!-- small -->
+
+## Accessories
+- ⏳ Replace medicine cabinet <!-- small -->
+- ⏳ Replace towel racks and toilet paper holder <!-- quick -->
 
 ## Master Closet
 - ✅ Deep clean wire racks <!-- small -->
