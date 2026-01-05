@@ -1,18 +1,17 @@
 ---
 title: "Master Bedroom"
 weight: 4
-tasks_completed: 4
+tasks_completed: 3
 tasks_in_progress: 2
-tasks_planned: 15
+tasks_planned: 17
 ---
 
 # Master Bedroom
 
 ## Completed
 
-- ✅ Paint door <!-- quick -->
-- ✅ Replace knob and hinges <!-- quick -->
-- ✅ Replace outlets and switch (white) <!-- small -->
+- ✅ Paint door and casing <!-- small -->
+- ✅ Replace knobs and hinges <!-- quick -->
 
 ## In Progress
 
@@ -20,6 +19,7 @@ tasks_planned: 15
 
 ## Planned
 
+- ⏳ Replace outlets and switches (white) <!-- small -->
 - ⏳ Install overhead wafer lights <!-- large -->
 - ⏳ Install accent lights <!-- medium -->
 - ⏳ Patch, prime and repaint walls <!-- medium -->
