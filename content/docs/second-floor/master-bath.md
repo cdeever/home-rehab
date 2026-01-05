@@ -1,7 +1,7 @@
 ---
 title: "Master Bath"
 weight: 3
-tasks_completed: 15
+tasks_completed: 23
 tasks_in_progress: 3
 tasks_planned: 0
 ---
@@ -12,6 +12,17 @@ tasks_planned: 0
 
 ### Demo
 - ✅ Demo <!-- medium -->
+
+### Painting
+- ✅ Repaint ceiling <!-- small -->
+- ✅ Paint master bath door and casing <!-- small -->
+
+### Electrical
+- ✅ Replace ceiling fan <!-- small -->
+- ✅ Replace shower light <!-- quick -->
+
+### Door
+- ✅ Replace knob and hinges <!-- quick -->
 
 ### Tub
 - ✅ Remove tub and cap off tub plumbing <!-- quick -->
