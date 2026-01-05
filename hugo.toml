@@ -1,6 +1,6 @@
 baseURL = "https://cdeever.github.io/home-rehab/"
 languageCode = "en-us"
-title = "Suntree Projects"
+title = "Home Rehab"
 theme = "hugo-book"
 
 enableGitInfo = true

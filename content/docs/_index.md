@@ -1,10 +1,10 @@
 ---
-title: "Suntree Projects"
+title: "Home Rehab"
 weight: 1
 bookFlatSection: true
 ---
 
-# Suntree Projects
+# Home Rehab
 
 When I moved into this house in 2019, nothing had been done since the 1990s - builder grade lighting, cheap masonite trim, ugly bone colored electrical, worn out linoleum and carpet, bent blinds - everything must be updated!
 

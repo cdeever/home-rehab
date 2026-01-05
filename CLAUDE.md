@@ -1,4 +1,4 @@
-# Suntree Projects Documentation
+# Home Rehab Documentation
 
 Hugo-based documentation site for tracking home renovation projects.
 
