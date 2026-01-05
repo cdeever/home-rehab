@@ -2,7 +2,7 @@
 title: "Outside"
 weight: 3
 bookCollapseSection: true
-tasks_completed: 59
+tasks_completed: 61
 tasks_in_progress: 0
 tasks_planned: 0
 ---
@@ -33,6 +33,10 @@ Exterior projects including the deck, landscaping, and structural improvements.
 - ✅ Replace rotting wood soffet above back door <!-- small -->
 - ✅ Replace rotting wood trim piece section in rear <!-- medium -->
 - ✅ Repaint shutters (white to black) <!-- medium -->
+
+## Front Entrance
+- ✅ Replace front porch light <!-- quick -->
+- ✅ Replace broken doorbell button <!-- quick -->
 
 ## Mailbox
 - ✅ Repaint mailbox post <!-- small -->
