@@ -1,12 +1,15 @@
 ---
 title: "Living Room"
 weight: 10
-tasks_completed: 21
+tasks_completed: 22
 tasks_in_progress: 0
 tasks_planned: 0
 ---
 
 # Living Room
+
+## Blinds
+- ✅ Install blinds - 2 front windows <!-- quick -->
 
 ## Painting
 - ✅ Remove wallpaper border <!-- large -->

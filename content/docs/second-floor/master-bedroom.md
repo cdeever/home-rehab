@@ -1,13 +1,14 @@
 ---
 title: "Master Bedroom"
 weight: 4
-tasks_completed: 3
+tasks_completed: 4
 tasks_in_progress: 2
 tasks_planned: 17
 ---
 
 # Master Bedroom
 
+- ✅ Install blinds - 2 windows <!-- quick -->
 - ✅ Paint door and casing <!-- small -->
 - ✅ Replace knobs and hinges <!-- quick -->
 - 🔄 Paint ceiling <!-- small -->

@@ -1,12 +1,15 @@
 ---
 title: "Family Room"
 weight: 6
-tasks_completed: 45
+tasks_completed: 46
 tasks_in_progress: 0
 tasks_planned: 0
 ---
 
 # Family Room
+
+## Blinds
+- ✅ Install blinds - single and double window <!-- quick -->
 
 ## Painting
 - ✅ Repaint ceiling <!-- medium -->

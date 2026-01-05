@@ -1,12 +1,15 @@
 ---
 title: "Master Bath"
 weight: 3
-tasks_completed: 28
+tasks_completed: 29
 tasks_in_progress: 3
 tasks_planned: 27
 ---
 
 # Master Bath
+
+## Blinds
+- ✅ Install blinds - 1 window <!-- quick -->
 
 ## Planning and Prep
 - ✅ Remove old shower surround, pan, tile and fixtures <!-- small -->
