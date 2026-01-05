@@ -3,7 +3,7 @@ title: "Hall Bath"
 weight: 3
 tasks_completed: 6
 tasks_in_progress: 0
-tasks_planned: 32
+tasks_planned: 37
 ---
 
 # Hall Bath
@@ -36,6 +36,10 @@ tasks_planned: 32
 
 ## Toilet
 - ✅ Replace toilet innards <!-- quick -->
+
+## Flooring
+- ⏳ Remove old flooring <!-- small -->
+- ⏳ Install new flooring <!-- medium -->
 
 ## Accessories
 - ⏳ Replace medicine cabinet <!-- small -->

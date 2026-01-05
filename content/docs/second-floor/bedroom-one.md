@@ -1,9 +1,9 @@
 ---
 title: "Bedroom One"
 weight: 5
-tasks_completed: 8
+tasks_completed: 11
 tasks_in_progress: 0
-tasks_planned: 2
+tasks_planned: 10
 ---
 
 # Bedroom One
@@ -14,6 +14,15 @@ tasks_planned: 2
 ## Door
 - ✅ Paint door and casing <!-- small -->
 - ✅ Replace knobs and hinges <!-- quick -->
+
+## Closet
+- ✅ Repaint sliding closet door <!-- small -->
+- ✅ Replace hardware on sliding door <!-- quick -->
+
+## Painting
+- ⏳ Paint ceiling <!-- small -->
+- ⏳ Skim coat walls <!-- medium -->
+- ⏳ Patch, prime and repaint walls <!-- medium -->
 
 ## Electrical
 - ✅ Install overhead lighting <!-- medium -->

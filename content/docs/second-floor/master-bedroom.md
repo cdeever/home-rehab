@@ -3,7 +3,7 @@ title: "Master Bedroom"
 weight: 4
 tasks_completed: 4
 tasks_in_progress: 2
-tasks_planned: 17
+tasks_planned: 14
 ---
 
 # Master Bedroom
@@ -25,5 +25,3 @@ tasks_planned: 17
 - ⏳ Install overhead wafer lights <!-- large -->
 - ⏳ Install accent lights <!-- medium -->
 
-## Flooring
-- ⏳ Replace carpet <!-- medium -->

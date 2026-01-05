@@ -3,7 +3,7 @@ title: "Master Bath"
 weight: 3
 tasks_completed: 29
 tasks_in_progress: 3
-tasks_planned: 32
+tasks_planned: 37
 ---
 
 # Master Bath
@@ -46,6 +46,10 @@ tasks_planned: 32
 - ⏳ Install shower fixtures <!-- small -->
 - ⏳ Install glass surround <!-- medium -->
 - ⏳ Apply sealant <!-- small -->
+
+## Flooring
+- ⏳ Remove old flooring <!-- small -->
+- ⏳ Install new flooring <!-- medium -->
 
 ## Accessories
 - ⏳ Replace medicine cabinet <!-- small -->

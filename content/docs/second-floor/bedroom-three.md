@@ -1,9 +1,9 @@
 ---
 title: "Bedroom Three"
 weight: 7
-tasks_completed: 7
+tasks_completed: 9
 tasks_in_progress: 0
-tasks_planned: 2
+tasks_planned: 10
 ---
 
 # Bedroom Three
@@ -14,6 +14,14 @@ tasks_planned: 2
 ## Door
 - ✅ Paint door and casing <!-- small -->
 - ✅ Replace knobs and hinges <!-- quick -->
+
+## Closet
+- ✅ Paint closet door and casing <!-- small -->
+
+## Painting
+- ⏳ Paint ceiling <!-- small -->
+- ⏳ Skim coat walls <!-- medium -->
+- ⏳ Patch, prime and repaint walls <!-- medium -->
 
 ## Electrical
 - ✅ Install overhead lighting <!-- medium -->
