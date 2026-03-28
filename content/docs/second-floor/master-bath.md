@@ -1,9 +1,9 @@
 ---
 title: "Master Bath"
 weight: 3
-tasks_completed: 29
-tasks_in_progress: 3
-tasks_planned: 41
+tasks_completed: 31
+tasks_in_progress: 6
+tasks_planned: 49
 ---
 
 # Master Bath
@@ -36,22 +36,33 @@ tasks_planned: 41
 ## Shower
 - ✅ Replace mixer valve <!-- quick -->
 - ⏳ Install shower pan <!-- small -->
-- ⏳ Build new knee wall framing <!-- medium -->
+- ⏳ Frame knee wall <!-- medium -->
 - ⏳ Shim and true up studs for flat surface <!-- medium -->
-- ⏳ Install vapor barrier on exterior walls <!-- small -->
 - ⏳ Install cement board on shower and knee wall <!-- medium -->
-- ⏳ Install greenboard on remaining wall space <!-- medium -->
 - ⏳ Install stone cap on knee wall <!-- quick -->
 - ⏳ Install tile <!-- medium -->
 - ⏳ Install shower fixtures <!-- small -->
 - ⏳ Install glass surround <!-- medium -->
 - ⏳ Apply sealant <!-- small -->
 
+## Drywall
+- ⏳ Install vapor barrier on exterior walls <!-- small -->
+- ⏳ Install drywall/greenboard on remaining wall space <!-- medium -->
+- ⏳ Install corner bead around window <!-- quick -->
+
 ## Flooring
-- ⏳ Remove old flooring <!-- small -->
+- ✅ Remove old flooring <!-- small -->
 - ⏳ Install new flooring <!-- medium -->
 - ⏳ Replace kickplate <!-- small -->
 - ⏳ Replace shoe molding <!-- small -->
+
+## Vanity
+- 🔄 Prep and repaint vanity <!-- medium -->
+- ⏳ Replace vanity top <!-- small -->
+- ⏳ Replace faucet fixtures <!-- small -->
+- ⏳ Replace vanity hinges with hidden style and add cabinet pulls <!-- small -->
+- ⏳ Install backsplash around vanity top <!-- small -->
+- ⏳ Add sealant around vanity top and backsplash <!-- quick -->
 
 ## Accessories
 - ⏳ Replace medicine cabinet <!-- small -->

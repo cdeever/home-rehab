@@ -3,7 +3,7 @@ title: "Garage"
 weight: 2
 tasks_completed: 11
 tasks_in_progress: 0
-tasks_planned: 27
+tasks_planned: 28
 ---
 
 # Garage
@@ -14,6 +14,7 @@ tasks_planned: 27
 ## Electrical
 - ✅ Install outside coach lights and switch <!-- small -->
 - ⏳ Add 2 new electrical outlets <!-- small -->
+- ⏳ Add hook and line for retractable extension cord <!-- quick -->
 
 ## Entrance Door
 - ✅ Repaint entrance door <!-- small -->

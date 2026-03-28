@@ -2,8 +2,8 @@
 title: "Master Bedroom"
 weight: 4
 tasks_completed: 4
-tasks_in_progress: 2
-tasks_planned: 15
+tasks_in_progress: 15
+tasks_planned: 2
 ---
 
 # Master Bedroom
@@ -17,13 +17,13 @@ tasks_planned: 15
 
 ## Painting
 - 🔄 Paint ceiling <!-- small -->
-- ⏳ Patch, prime and repaint walls <!-- medium -->
+- 🔄 Patch, prime and repaint walls <!-- medium -->
 - ⏳ Paint trim <!-- small -->
 
 ## Electrical
-- ⏳ Replace outlets and switches (white) <!-- small -->
-- ⏳ Install overhead wafer lights <!-- large -->
-- ⏳ Install accent lights <!-- medium -->
+- 🔄 Replace outlets and switches (white) <!-- small -->
+- 🔄 Install overhead wafer lights <!-- large -->
+- 🔄 Install accent lights <!-- medium -->
 
 ## HVAC
 - ⏳ Replace cold air return vent <!-- quick -->

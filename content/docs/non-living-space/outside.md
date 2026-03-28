@@ -1,16 +1,17 @@
 ---
 title: "Outside"
 weight: 1
-tasks_completed: 40
-tasks_in_progress: 0
-tasks_planned: 36
+tasks_completed: 45
+tasks_in_progress: 5
+tasks_planned: 31
 ---
 
 # Outside
 
 ## Deck
-- ⏳ Create new deck design <!-- medium -->
-- ⏳ Apply for permit <!-- small -->
+- ✅ Create new deck design <!-- medium -->
+- ✅ Apply for permit <!-- small -->
+- 🔄 Identify and purchase new building supplies <!-- small -->
 - ⏳ Remove old deck <!-- medium -->
 - ⏳ Install new posts <!-- medium -->
 - ⏳ Clean up gravel and add new if needed <!-- small -->
@@ -34,6 +35,8 @@ tasks_planned: 36
 ## Front Entrance
 - ✅ Replace front porch light <!-- quick -->
 - ✅ Replace broken doorbell button <!-- quick -->
+- ⏳ Repaint door <!-- small -->
+- ⏳ Replace weatherstripping <!-- quick -->
 
 ## Mailbox
 - ✅ Repaint mailbox post <!-- small -->
@@ -54,7 +57,8 @@ tasks_planned: 36
 - ⏳ Replace dryer vent <!-- small -->
 
 ## Drainage
-- ⏳ Repair/replace sump and gutter drainage line <!-- large -->
+- ⏳ Replace sump discharge pipe <!-- small -->
+- 🔄 Repair underground drainage line <!-- medium -->
 
 ## Landscaping
 - ✅ Replace overgrown bushes next to front door <!-- small -->

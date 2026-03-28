@@ -1,0 +1,74 @@
+{{- $status := .Get "status" | default "in-progress" -}}
+{{- $emoji := "🔄" -}}
+{{- if eq $status "completed" -}}
+  {{- $emoji = "✅" -}}
+{{- else if eq $status "planned" -}}
+  {{- $emoji = "⏳" -}}
+{{- end -}}
+
+{{- $docsPage := .Page.Site.GetPage "/docs" -}}
+{{- $found := false -}}
+
+{{- range $docsPage.Sections -}}
+  {{- $sectionTitle := .Title -}}
+  {{- $sectionPages := .Pages -}}
+
+  {{- range $sectionPages -}}
+    {{- $page := . -}}
+    {{- $raw := .RawContent -}}
+    {{- $sections := split $raw "\n## " -}}
+    {{- $pageHasTasks := false -}}
+    {{- $pageHTML := "" -}}
+
+    {{- range $i, $block := $sections -}}
+      {{- if gt $i 0 -}}
+        {{- $lines := split $block "\n" -}}
+        {{- $heading := index $lines 0 -}}
+        {{- $blockTasks := slice -}}
+
+        {{- range $lines -}}
+          {{- if hasPrefix . (printf "- %s " $emoji) -}}
+            {{- $taskText := . -}}
+            {{- $taskText = replaceRE `<!--\s*\w+\s*-->` "" $taskText -}}
+            {{- $taskText = replaceRE `^- [^ ]+ ` "" $taskText -}}
+            {{- $taskText = strings.TrimRight " " $taskText -}}
+            {{- $size := "" -}}
+            {{- $sizeMatch := findRE `<!--\s*(\w+)\s*-->` . -}}
+            {{- if $sizeMatch -}}
+              {{- $size = replaceRE `<!--\s*` "" (index $sizeMatch 0) -}}
+              {{- $size = replaceRE `\s*-->` "" $size -}}
+            {{- end -}}
+            {{- $blockTasks = $blockTasks | append (dict "text" $taskText "size" $size) -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- if $blockTasks -}}
+          {{- if not $pageHasTasks -}}
+            {{- $pageHasTasks = true -}}
+          {{- end -}}
+          {{- $pageHTML = printf "%s<h4 style=\"margin: 0.3em 0 0.2em;\">%s</h4><ul style=\"margin: 0 0 0.5em;\">" $pageHTML $heading -}}
+          {{- range $blockTasks -}}
+            {{- if .size -}}
+              {{- $pageHTML = printf "%s<li>%s <span style=\"font-size:0.75em; color:#999;\">(%s)</span></li>" $pageHTML .text .size -}}
+            {{- else -}}
+              {{- $pageHTML = printf "%s<li>%s</li>" $pageHTML .text -}}
+            {{- end -}}
+          {{- end -}}
+          {{- $pageHTML = printf "%s</ul>" $pageHTML -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if $pageHasTasks -}}
+      {{- $found = true -}}
+<div style="margin-bottom: 1.5em;">
+  <h3 style="margin-bottom: 0.2em;"><a href="{{ $page.RelPermalink }}">{{ $sectionTitle }} / {{ $page.Title }}</a></h3>
+  {{ $pageHTML | safeHTML }}
+</div>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $found -}}
+<p style="color: #999; font-style: italic;">No {{ $status }} tasks.</p>
+{{- end -}}

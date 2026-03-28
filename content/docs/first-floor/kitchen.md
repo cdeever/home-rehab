@@ -1,8 +1,8 @@
 ---
 title: "Kitchen"
 weight: 1
-tasks_completed: 57
-tasks_in_progress: 0
+tasks_completed: 58
+tasks_in_progress: 1
 tasks_planned: 0
 ---
 
@@ -38,6 +38,7 @@ tasks_planned: 0
 - ✅ Education/training <!-- large -->
 - ✅ Install tile <!-- medium -->
 - ✅ Apply sealant <!-- quick -->
+- 🔄 Seal around border edges <!-- quick -->
 
 ## Countertops
 - ✅ Replace counter tops <!-- small -->
@@ -47,6 +48,7 @@ tasks_planned: 0
 - ✅ Replace dishwasher <!-- small -->
 - ✅ Replace oven <!-- quick -->
 - ✅ Replace fridge <!-- small -->
+- ✅ Reinstall dishwasher kickplate <!-- quick -->
 
 ## Pantry
 - ✅ Repaint ceiling <!-- small -->
