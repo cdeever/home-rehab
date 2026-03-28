@@ -2,8 +2,8 @@
 title: "Hall Bath"
 weight: 3
 tasks_completed: 6
-tasks_in_progress: 0
-tasks_planned: 41
+tasks_in_progress: 3
+tasks_planned: 38
 ---
 
 # Hall Bath
@@ -14,7 +14,7 @@ tasks_planned: 41
 
 ## Painting
 - ⏳ Paint ceiling <!-- small -->
-- ⏳ Patch, prime and repaint walls <!-- medium -->
+- 🔄 Patch, prime and repaint walls <!-- medium -->
 
 ## Electrical
 - ✅ Replace exhaust fan <!-- small -->
