@@ -46,7 +46,7 @@
           {{- if not $pageHasTasks -}}
             {{- $pageHasTasks = true -}}
           {{- end -}}
-          {{- $pageHTML = printf "%s<h4 style=\"margin: 0.3em 0 0.2em;\">%s</h4><ul style=\"margin: 0 0 0.5em;\">" $pageHTML $heading -}}
+          {{- $pageHTML = printf "%s<div style=\"margin-left: 1.5em;\"><h4 style=\"margin: 0.5em 0 0.2em; font-size: 0.9em; font-weight: 500; color: #666;\">%s</h4><ul style=\"margin: 0 0 0.5em;\">" $pageHTML $heading -}}
           {{- range $blockTasks -}}
             {{- if .size -}}
               {{- $pageHTML = printf "%s<li>%s <span style=\"font-size:0.75em; color:#999;\">(%s)</span></li>" $pageHTML .text .size -}}
@@ -54,7 +54,7 @@
               {{- $pageHTML = printf "%s<li>%s</li>" $pageHTML .text -}}
             {{- end -}}
           {{- end -}}
-          {{- $pageHTML = printf "%s</ul>" $pageHTML -}}
+          {{- $pageHTML = printf "%s</ul></div>" $pageHTML -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}
@@ -62,7 +62,7 @@
     {{- if $pageHasTasks -}}
       {{- $found = true -}}
 <div style="margin-bottom: 1.5em;">
-  <h3 style="margin-bottom: 0.2em;"><a href="{{ $page.RelPermalink }}">{{ $sectionTitle }} / {{ $page.Title }}</a></h3>
+  <h3 style="margin-bottom: 0.2em; font-size: 1.1em;"><a href="{{ $page.RelPermalink }}">{{ $sectionTitle }} / {{ $page.Title }}</a></h3>
   {{ $pageHTML | safeHTML }}
 </div>
     {{- end -}}
