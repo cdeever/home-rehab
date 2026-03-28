@@ -9,11 +9,3 @@ bookFlatSection: true
 ## In Progress
 
 {{< task-list status="in-progress" >}}
-
-## Planned
-
-{{< task-list status="planned" >}}
-
-## Completed
-
-{{< task-list status="completed" >}}
