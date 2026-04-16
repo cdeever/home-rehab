@@ -2,7 +2,7 @@
 title: "Master Bath"
 weight: 3
 tasks_completed: 31
-tasks_in_progress: 6
+tasks_in_progress: 9
 tasks_planned: 49
 ---
 
@@ -21,6 +21,7 @@ tasks_planned: 49
 ## Painting
 - ✅ Repaint ceiling <!-- small -->
 - ✅ Paint master bath door and casing <!-- small -->
+- 🔄 Patch, prime and repaint walls <!-- medium -->
 
 ## Electrical
 - ✅ Replace exhaust fan <!-- small -->
