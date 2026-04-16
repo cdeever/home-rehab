@@ -1,5 +1,6 @@
 {{- $docsPage := .Page.Site.GetPage "/docs" -}}
 {{- range $docsPage.Sections -}}
+{{- if .Params.excludeFromProgress -}}{{- continue -}}{{- end -}}
 <div style="margin-bottom: 1.5em;">
   <h4 style="margin-bottom: 0.3em;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
   {{- $completed := 0 -}}

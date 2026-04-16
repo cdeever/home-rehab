@@ -1,0 +1,13 @@
+{{- $p := .Params -}}
+<section class="permit-page title-page">
+  <h1>{{ default "Deck Reconstruction" $p.project_name }}</h1>
+  <p class="subtitle">Permit Application — {{ default "DECKR2611750" $p.permit_number }}</p>
+  <dl class="meta">
+    <dt>Project Address:</dt><dd>{{ default "—" $p.project_address }}</dd>
+    <dt>Property Owner:</dt><dd>{{ default "—" $p.property_owner }}</dd>
+    <dt>Permit Number:</dt><dd>{{ default "DECKR2611750" $p.permit_number }}</dd>
+    <dt>Jurisdiction:</dt><dd>{{ default "Franklin County, Ohio" $p.jurisdiction }}</dd>
+    <dt>Revision Date:</dt><dd>{{ now.Format "January 2, 2006" }}</dd>
+    <dt>Revision:</dt><dd>{{ default "1" $p.revision }}</dd>
+  </dl>
+</section>

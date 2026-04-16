@@ -1,0 +1,19 @@
+{{- $css := resources.Get "css/permit-print.css" | resources.Minify -}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{ .Title }} — Permit Submission</title>
+  <style>{{ $css.Content | safeCSS }}</style>
+</head>
+<body>
+  {{- partial "permit-title-page.html" . -}}
+
+  {{- range .Pages.ByWeight -}}
+  <section class="permit-page" id="{{ .File.BaseFileName }}">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </section>
+  {{- end -}}
+</body>
+</html>

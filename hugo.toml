@@ -20,3 +20,8 @@ enableGitInfo = true
 [markup.tableOfContents]
   startLevel = 1
   endLevel = 4
+
+[outputFormats.Print]
+  mediaType = "text/html"
+  baseName = "print"
+  isHTML = true

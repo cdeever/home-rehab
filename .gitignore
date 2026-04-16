@@ -7,3 +7,6 @@ resources/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Generated permit PDFs
+deck-permit.pdf
