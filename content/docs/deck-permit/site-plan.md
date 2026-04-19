@@ -26,7 +26,7 @@ Typical content:
 - Property lines with dimensions
 - House footprint with rear wall noted
 - Existing deck footprint (dashed)
-- Proposed deck footprint (solid)
+- Proposed deck footprint (solid) — 13'-10" × 13'-10", with the two outer corners (opposite the house) clipped diagonally; each clip is a 23" angled cut with ~16.3" legs
 - Distance from each deck edge to the nearest property line
 - North arrow and scale bar
 - Adjacent structures, trees ≥6" diameter, easements

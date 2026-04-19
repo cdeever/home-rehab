@@ -30,16 +30,17 @@ Design conforms to the 2018 International Residential Code (IRC) as adopted by t
 
 ## Franklin County Deck Guide Cross-References
 
-_Page numbers to be filled after transcribing `Franklin-Country-Deck-Guide.pdf`:_
+The guide is structured as four sheets. Tables cited in this package:
 
-| Topic | Guide Page |
-|---|---|
-| Footing sizing table | _p. TBD_ |
-| Joist span table | _p. TBD_ |
-| Beam span table | _p. TBD_ |
-| Ledger fastener schedule | _p. TBD_ |
-| Lateral load tension tie detail | _p. TBD_ |
-| Guardrail post attachment detail | _p. TBD_ |
+| Topic | Guide Location | IRC Section |
+|---|---|---|
+| Footing sizing table | Sheet 2, Table R507.3.1 | R403 / R507.3 |
+| Joist span table (SP 2×8 @ 16" o.c. → 11'-10" max, cantilever 2'-3") | Sheet 3, Table R507.6 | R507.6 |
+| Beam span table (2-ply 2×8 SP, ~7' trib → 8'-9" max) | Sheet 3, Table R507.5 | R507.5 |
+| Post table (6×6 PT, max 14' height) | Sheet 5, Table R507.4 | R507.4 |
+| Ledger fastener schedule | Sheet 3 (ledger details) | R507.9 / Table R507.9.1.3(1) |
+| Lateral load tension tie detail | Sheet 2 | R507.9.2 |
+| Guardrail post attachment detail | Sheet 4 | R507.10, R312 |
 
 ## Lateral Load Path
 

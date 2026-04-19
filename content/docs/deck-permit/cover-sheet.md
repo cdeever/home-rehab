@@ -27,9 +27,7 @@ weight: 1
 
 ## Project Description
 
-_One-paragraph summary. Fill in from original submission after transcribing `A-Deever Deck Reconstruction.pdf`:_
-
-> Reconstruction of existing rear deck at the above address. Existing deck is being fully removed and replaced with a new pressure-treated wood deck on concrete pier footings. Overall footprint, height, and use are unchanged; the reconstruction addresses deterioration of existing framing and brings the assembly into compliance with current IRC / Franklin County Deck Guide provisions.
+> Full reconstruction of the existing rear deck at the above address. The existing deck — including ledger, posts, beams, joists, decking, railings, stairs, and footings — will be demolished in its entirety and rebuilt from the footings up with new pressure-treated lumber on new concrete pier footings. No existing material is being reused: on-site inspection has confirmed the framing has deteriorated beyond salvage, and the existing ledger does not meet current IRC R507.9 attachment / flashing requirements. Overall footprint (13'-10" × 13'-10" with the two outside corners clipped diagonally by 23"), height above grade, point of attachment to the house, and use (private residential rear deck) are unchanged. The reconstruction brings the assembly into compliance with current IRC / Franklin County Deck Guide provisions.
 
 ## Approvals Required
 

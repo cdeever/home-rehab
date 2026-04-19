@@ -5,14 +5,15 @@ weight: 6
 
 ## Lumber
 
-| Item | Species / Grade | Treatment |
-|---|---|---|
-| Posts (6×6) | Southern Pine #2 | PT, UC4A (ground-contact) |
-| Beams (2× multi-ply) | Southern Pine #2 or SPF #2 | PT, UC3B minimum |
-| Joists (2×) | Southern Pine #2 | PT, UC3B minimum |
-| Ledger | Match joist depth | PT, UC4A (ground-contact) |
-| Decking | _TBD — 5/4×6 PT / composite board_ | Per product |
-| Railing framing | Southern Pine #2 | PT |
+| Item | Species / Grade | Size / Configuration | Treatment |
+|---|---|---|---|
+| Posts | Southern Pine #2 | 6×6, (3) posts at ~6'-11" o.c. | PT, UC4A (ground-contact) |
+| Beam | Southern Pine #2 | 2-ply 2×8, 13'-10" long | PT, UC3B minimum |
+| Joists | Southern Pine #2 | 2×8 at 16" o.c. | PT, UC3B minimum |
+| Ledger | Southern Pine #2 | 2×8, full width of house-side edge | PT, UC4A (ground-contact) |
+| Angled rim joists (clipped corners) | Southern Pine #2 | 2×8, 23" long, 45° miter each end | PT, UC3B minimum |
+| Decking | _TBD — 5/4×6 PT / composite board_ | Per product | Per product |
+| Railing framing | Southern Pine #2 | Per Railing detail | PT |
 
 All lumber tags / grade stamps to remain visible for inspection.
 
@@ -35,8 +36,10 @@ All fasteners in contact with PT lumber must be hot-dipped galvanized, stainless
 | Post to footing | Standoff post base | ABU66Z |
 | Post to beam | Post cap | AC6Z or PCZ |
 | Beam to post (uplift) | Hurricane / twist strap | HTT4 or LSTA |
-| Joist to ledger | Face-mount hanger | LUS28 / LUS210 (match joist) |
+| Joist to ledger | Face-mount hanger | LUS28 |
 | Joist to beam | Hurricane tie | H2.5A |
+| Joist to angled rim (clipped corners) | Skewed face-mount hanger, 45° | LSSU210 (left or right as needed) |
+| Angled rim to perimeter rim (miter) | Structural screws | (2) SDWS22500DB per side + construction adhesive |
 | Guardrail post to rim | Hold-down tension tie | DTT2Z |
 | Stair stringer to deck | Angle | LSC or L70 |
 
