@@ -55,14 +55,9 @@ Per IRC R507.9.2, at least two tension ties (e.g., Simpson DTT2Z) connect the de
 - Frost depth: 32 in. below finished grade.
 - Presumed soil bearing: 1,500 psf (per IRC Table R401.4.1, Class 4 — silt / sandy clay). Footings sized accordingly.
 
-## Gas Stub at Ledger (Coordinating Scope — Separate Permit)
+## Gas Stub at Ledger (Coordinating Scope)
 
-The current ledger has a notch for an exterior gas stub. Under a separate Franklin County Public Health gas/mechanical permit, a licensed Ohio plumbing contractor (ORC § 4740) will remove or cap the stub as needed so that the new ledger can be installed continuous with no utility interference. Applicable 2018 IFGC sections:
-
-| Topic | IFGC Section |
-|---|---|
-| Capping / plugging gas outlets and leak test | 406 |
-| Piping system support (for any remaining interior line) | 404 |
+The current ledger has a notch for an exterior gas stub. A licensed Ohio plumbing contractor (ORC § 4740) will remove or cap the stub as needed so that the new ledger can be installed continuous with no utility interference. No separate gas permit is required for this work.
 
 Notching limits that would prohibit preserving the current penetration in the new ledger:
 
