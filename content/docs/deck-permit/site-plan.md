@@ -10,7 +10,7 @@ weight: 4
 | West side (principal dwelling left side) | 121.31 ft |
 | East side (principal dwelling right side — stair side) | 124.05 ft |
 | Rear (north) | 69.32 ft total — platted in two segments (21.65 ft + 47.67 ft) where the adjacent neighbor's lot lines meet the rear line |
-| Front (south) | _per plat — confirm_ |
+| Front (south) | ~69 ft (approximate, per recorded plat) |
 
 Approximate lot area: ~8,500 sq ft (~0.195 ac.), based on average depth 122.68 ft × rear width 69.32 ft. Exact acreage per the recorded plat and county auditor record.
 
@@ -122,7 +122,7 @@ Deck footprint is unchanged from the existing approved footprint — no zoning v
 <text x="42" y="317" class="dim-text" transform="rotate(-90, 42, 317)">West 121.31'</text>
 <text x="355" y="312" class="dim-text" transform="rotate(-90, 355, 312)">East 124.05'</text>
 <text x="198" y="52" class="dim-text">Rear 69.32' (21.65' + 47.67')</text>
-<text x="198" y="576" class="dim-text">Front (per plat)</text>
+<text x="198" y="576" class="dim-text">Front ~69' (per plat)</text>
 <line class="dim-tick" x1="146.6" y1="65" x2="146.6" y2="58"/>
 <rect class="house-shape" x="135" y="322" width="128" height="112"/>
 <rect class="house-shape" x="87" y="322" width="48" height="76"/>
@@ -179,7 +179,7 @@ Typical content to verify is present (checklist for review against the drawing):
 - Stair and paver landing — 36" wide stair exit on east, 67" from house; 36" × 36" paver ✓
 - Distance from each deck edge to nearest property line ✓ (green dashed setbacks)
 - North arrow and scale bar ✓
-- Adjacent structures, trees ≥6" diameter, easements — _to be added if present on this site_
+- Adjacent structures, trees ≥6" diameter, easements — **none of significance on this lot**
 
 ## Notes
 

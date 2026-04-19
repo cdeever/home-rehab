@@ -71,7 +71,7 @@ Per IRC R507.9. Positive mechanical connection to the house floor framing.
 | Ledger size | 2×8 PT SP #2, ground-contact rated |
 | Fastener | ½" dia. hot-dipped galvanized through-bolt with washers (preferred); ½" lag screw where through-bolt access from the interior is not practical |
 | Fastener spacing | **23" o.c. staggered for ½" through-bolts** (or 15" o.c. staggered for ½" lag screws) per RCO Table 507.9.1.3(1) — 2×8 SP joist, 11'-7" back-span, 40 psf LL + 10 psf DL. Edge/end distances per RCO Figures 507.9.1.3(1) and 507.9.1.3(2). |
-| Attachment substrate | Solid sawn lumber house band joist (2× lumber). Installation into rim board (OSB/LVL-composite rim) or sheathing alone is not permitted. Owner to verify band-joist type and condition before ledger install; replace rot-compromised lumber prior to ledger attachment. |
+| Attachment substrate | Solid sawn lumber house band joist (also called the rim joist) — 2× lumber. Installation into rim board (OSB/LVL-composite rim) or sheathing alone is not permitted. Owner to verify band-joist type and condition before ledger install; replace rot-compromised lumber prior to ledger attachment. |
 | Lateral load connection | (2) Simpson DTT2Z tension ties per RCO 507.9.2, located at approximately the **¼-points along the ledger**, connecting the deck joists through the band joist to interior floor framing (positive connection to house floor framing, not to sheathing alone). Detail per Franklin County Deck Guide. |
 | Flashing | Corrosion-resistant metal drip cap / Z-flashing continuous over the top of the ledger; step flashing where ledger meets wall cladding; integrate with existing WRB |
 
