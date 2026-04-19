@@ -34,4 +34,5 @@ weight: 1
 - Building (structural) — this submission
 - Zoning (setback / lot coverage) — confirmed at original submission; no change in footprint
 - Electrical — N/A
-- Plumbing — N/A
+- Plumbing — N/A (for the deck permit)
+- Mechanical / Gas — **separate permit required** through Franklin County Public Health to decommission and cap an existing unused gas stub that currently notches through the ledger. Gas work to be performed by a licensed Ohio plumbing contractor per ORC § 4740. Scheduled to occur between deck demolition and new ledger installation. No outdoor gas service is being added; no new gas piping is in this project. See Scope of Work step 11.

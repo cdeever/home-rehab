@@ -79,7 +79,7 @@ Per IRC R312 and R311.7.8.
 
 | Parameter | Value |
 |---|---|
-| Guardrail required | Where walking surface > 30 in. above grade |
+| Guardrail required | Yes — deck measures 28" to ~30" above grade depending on measurement point; design provides guardrail to satisfy IRC R312 at the worst-case 30" condition |
 | Guardrail height | 36 in. minimum from deck surface to top rail |
 | Balusters | 4 in. sphere cannot pass |
 | Guardrail post attachment | Simpson DTT2Z or equivalent hold-down; no notched posts |
