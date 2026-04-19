@@ -58,7 +58,7 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 | Maximum cantilever (allowable) | 2'-3" per FCDG Sheet 3, Table R507.6 (also ≤ ¼ back-span per R507.6) |
 | Actual cantilever | 2'-3" — beam to outer edge |
 | Joist-to-ledger | Simpson LUS28 face-mount hanger |
-| Joist-to-beam | Joists bear fully on top of beam and are mechanically secured with Simpson H2.5A hurricane ties for uplift resistance |
+| Joist-to-beam | Joists bear fully on top of beam (primary vertical load path); Simpson H2.5A hurricane tie at each joist for uplift resistance only (not primary bearing) |
 
 _Note: The 2×8 joist depth is dictated by the 2×8 ledger — a face-mounted joist cannot be deeper than the ledger it hangs from._
 
@@ -70,9 +70,9 @@ Per IRC R507.9. Positive mechanical connection to the house floor framing.
 |---|---|
 | Ledger size | 2×8 PT SP #2, ground-contact rated |
 | Fastener | ½" dia. hot-dipped galvanized through-bolt with washers (preferred); ½" lag screw where through-bolt access from the interior is not practical |
-| Fastener spacing | Per IRC Table R507.9.1.3(1) based on actual joist span of 11'-7" |
-| Attachment substrate | Solid sawn lumber house rim joist (2× band joist). Installation into rim board (OSB/LVL-composite rim) or sheathing alone is not permitted. Owner to verify rim-joist type and condition before ledger install; replace rot-compromised rim lumber prior to ledger attachment. |
-| Lateral load connection | (2) Simpson DTT2Z tension ties per IRC R507.9.2, installed near the ends of the ledger, connecting the deck joists through the rim joist to interior floor framing (positive connection to house floor framing, not to sheathing alone). Detail per Franklin County Deck Guide. |
+| Fastener spacing | **23" o.c. staggered for ½" through-bolts** (or 15" o.c. staggered for ½" lag screws) per RCO Table 507.9.1.3(1) — 2×8 SP joist, 11'-7" back-span, 40 psf LL + 10 psf DL. Edge/end distances per RCO Figures 507.9.1.3(1) and 507.9.1.3(2). |
+| Attachment substrate | Solid sawn lumber house band joist (2× lumber). Installation into rim board (OSB/LVL-composite rim) or sheathing alone is not permitted. Owner to verify band-joist type and condition before ledger install; replace rot-compromised lumber prior to ledger attachment. |
+| Lateral load connection | (2) Simpson DTT2Z tension ties per RCO 507.9.2, located at approximately the **¼-points along the ledger**, connecting the deck joists through the band joist to interior floor framing (positive connection to house floor framing, not to sheathing alone). Detail per Franklin County Deck Guide. |
 | Flashing | Corrosion-resistant metal drip cap / Z-flashing continuous over the top of the ledger; step flashing where ledger meets wall cladding; integrate with existing WRB |
 
 ## Guardrail / Handrail
@@ -103,7 +103,7 @@ Per IRC R311.7. Single stair run, exits the east (right) side of the deck.
 | Nosing | ¾" min. to 1¼" max. projection (R311.7.5.3) |
 | Stringers | (3) 2×12 PT SP #2, notched, 16" o.c. clear |
 | Stringer-to-deck rim | Simpson LSC stair stringer connector at top, (2) per stringer |
-| Stringer-at-landing | Bottom of stringer sits on a PT 2×6 kicker plate anchored to the compacted aggregate base **beneath** the paver finish — pavers are the finish surface only, not structural support. Kicker plate anchored to base with HDG concrete screws; galvanized angle bracket ties stringer to kicker. |
+| Stringer-at-landing | Bottom of stringer sits on a PT 2×6 kicker plate that bears on the compacted aggregate base **beneath** the paver finish. Pavers are finish surface only, not structural support. Kicker is anchored to the aggregate base to prevent lateral movement only (not for vertical load transfer); galvanized angle bracket ties stringer to kicker. |
 | Treads / risers (finish) | 5/4×6 or 2×6 PT decking to match deck; closed risers |
 | Handrail | Both sides, 34"–38" above tread nosings, Type I graspable profile, continuous, returns at both ends (R311.7.8) |
 | Guardrail on open side | 34" min. above nosings, 4" sphere rule on infill (R312.1.2 / R312.1.3) |
