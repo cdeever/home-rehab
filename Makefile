@@ -22,11 +22,11 @@ clean:
 
 # Render the deck-permit section as a permit-ready PDF via WeasyPrint
 PDF_OUT   := deck-permit.pdf
-PRINT_URL := public/docs/deck-permit/print/index.html
+PRINT_URL := public/docs/deck-permit/print.html
 
 pdf:
 	hugo --minify --baseURL file://$(CURDIR)/public/
-	weasyprint "$(PRINT_URL)" "$(PDF_OUT)" --media-type print --presentational-hints
+	DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib weasyprint "$(PRINT_URL)" "$(PDF_OUT)" --media-type print --presentational-hints
 	@echo "Wrote $(PDF_OUT)"
 
 pdf-clean:

@@ -124,4 +124,140 @@ The two outer corners (opposite the house) are clipped diagonally — 23" hypote
 
 ## Framing Drawing
 
-_Insert scaled framing plan drawing here. Include: (3) footing / post locations with sizes, beam at 11'-7" from house, joist direction and 16" o.c. spacing, ledger at house wall, 2'-3" cantilever line, and the two angled rim joists at the clipped corners with all dimensions._
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" style="max-width: 720px; width: 100%; display: block; margin: 1em auto; background: white; font-family: 'Helvetica Neue', Arial, sans-serif;">
+  <style>
+    .rim { fill: none; stroke: #000; stroke-width: 2; }
+    .ledger { stroke: #000; stroke-width: 4; }
+    .beam { stroke: #000; stroke-width: 4; }
+    .beam-center { stroke: #000; stroke-width: 0.75; stroke-dasharray: 4 3; }
+    .post { fill: #000; stroke: #000; stroke-width: 1; }
+    .joist { fill: none; stroke: #888; stroke-width: 0.6; }
+    .clip-rim { stroke: #000; stroke-width: 2; fill: none; }
+    .stair-mark { fill: none; stroke: #000; stroke-width: 1.5; stroke-dasharray: 5 3; }
+    .dim { stroke: #444; stroke-width: 0.6; fill: none; }
+    .dim-tick { stroke: #444; stroke-width: 0.6; }
+    .dim-text { font-size: 10px; fill: #222; text-anchor: middle; }
+    .label { font-size: 10px; fill: #222; }
+    .label-bold { font-size: 11px; fill: #000; font-weight: 600; }
+    .title { font-size: 13px; fill: #000; font-weight: 700; text-anchor: middle; }
+    .subtitle { font-size: 10px; fill: #444; text-anchor: middle; }
+    .compass { stroke: #000; stroke-width: 1.2; fill: none; }
+  </style>
+
+  <!-- Title block -->
+  <text x="300" y="24" class="title">FRAMING PLAN</text>
+  <text x="300" y="38" class="subtitle">Scale: 1" = 2'-6" (approx.) — dimensions govern, not drawing</text>
+
+  <!-- Compass (North arrow, top right) -->
+  <g transform="translate(540, 70)">
+    <line class="compass" x1="0" y1="0" x2="0" y2="-26"/>
+    <polygon class="post" points="0,-30 -5,-18 5,-18"/>
+    <text x="0" y="12" class="label-bold" text-anchor="middle">N</text>
+  </g>
+
+  <!-- Deck perimeter (13'-10" x 13'-10" with two clipped corners opposite house).
+       Scale: 2.5 SVG units per inch.  Deck = 166" x 166" = 415 x 415 units.
+       South (house) edge at bottom, clipped corners at top (north, away from house). -->
+  <polygon class="rim" points="80,495 80,121 121,80 454,80 495,121 495,495"/>
+
+  <!-- Ledger (south edge, against house) - thicker line -->
+  <line class="ledger" x1="80" y1="495" x2="495" y2="495"/>
+  <text x="287" y="512" class="label-bold" text-anchor="middle">LEDGER — 2×8 PT SP #2 bolted to house rim joist per IRC R507.9</text>
+
+  <!-- Joists (16" o.c., perpendicular to ledger; dashed for clarity).
+       First interior joist at 80+16×2.5=120, then every 40 units. -->
+  <!-- Full-length joists between clips (x in [121, 454]): -->
+  <line class="joist" x1="120" y1="495" x2="120" y2="80"/>
+  <line class="joist" x1="160" y1="495" x2="160" y2="80"/>
+  <line class="joist" x1="200" y1="495" x2="200" y2="80"/>
+  <line class="joist" x1="240" y1="495" x2="240" y2="80"/>
+  <line class="joist" x1="280" y1="495" x2="280" y2="80"/>
+  <line class="joist" x1="320" y1="495" x2="320" y2="80"/>
+  <line class="joist" x1="360" y1="495" x2="360" y2="80"/>
+  <line class="joist" x1="400" y1="495" x2="400" y2="80"/>
+  <line class="joist" x1="440" y1="495" x2="440" y2="80"/>
+  <!-- Joist at x=480 falls in east clip region; terminate at angled rim y = x - 374 = 106 -->
+  <line class="joist" x1="480" y1="495" x2="480" y2="106"/>
+
+  <!-- Beam at 11'-7" from ledger (y = 495 - 139×2.5 = 147.5) -->
+  <line class="beam" x1="80" y1="147.5" x2="495" y2="147.5"/>
+  <text x="287" y="141" class="label-bold" text-anchor="middle">BEAM — 2-ply 2×8 PT SP #2, 13'-10" long</text>
+
+  <!-- Posts (3) at ~6'-11" o.c. along beam -->
+  <rect class="post" x="74" y="141.5" width="12" height="12"/>
+  <rect class="post" x="281.5" y="141.5" width="12" height="12"/>
+  <rect class="post" x="489" y="141.5" width="12" height="12"/>
+  <text x="80" y="175" class="label" text-anchor="middle">P1</text>
+  <text x="287" y="175" class="label" text-anchor="middle">P2</text>
+  <text x="495" y="175" class="label" text-anchor="middle">P3</text>
+
+  <!-- Stair opening marker on east rim: from 67" (y=327.5) to 103" (y=237.5) from house -->
+  <line class="stair-mark" x1="495" y1="327.5" x2="495" y2="237.5" stroke-width="4"/>
+  <text x="540" y="285" class="label-bold">STAIR</text>
+  <text x="540" y="298" class="label">OPENING</text>
+  <text x="540" y="311" class="label">(36" wide,</text>
+  <text x="540" y="324" class="label">67" from</text>
+  <text x="540" y="337" class="label">house)</text>
+
+  <!-- Angled rim joists at the two clipped corners (highlight) -->
+  <line class="clip-rim" x1="80" y1="121" x2="121" y2="80" stroke="#c83"/>
+  <line class="clip-rim" x1="454" y1="80" x2="495" y2="121" stroke="#c83"/>
+  <text x="68" y="95" class="label" transform="rotate(-45, 68, 95)">23" clip</text>
+  <text x="508" y="95" class="label" transform="rotate(45, 508, 95)">23" clip</text>
+
+  <!-- OVERALL DIMENSIONS -->
+
+  <!-- Top dimension: overall 13'-10" width -->
+  <line class="dim" x1="80" y1="55" x2="495" y2="55"/>
+  <line class="dim-tick" x1="80" y1="50" x2="80" y2="60"/>
+  <line class="dim-tick" x1="495" y1="50" x2="495" y2="60"/>
+  <text x="287" y="48" class="dim-text">13'-10"</text>
+
+  <!-- Left dimension: overall 13'-10" depth -->
+  <line class="dim" x1="55" y1="80" x2="55" y2="495"/>
+  <line class="dim-tick" x1="50" y1="80" x2="60" y2="80"/>
+  <line class="dim-tick" x1="50" y1="495" x2="60" y2="495"/>
+  <text x="45" y="287" class="dim-text" transform="rotate(-90, 45, 287)">13'-10"</text>
+
+  <!-- Right-side dimensions: ledger→beam back-span (11'-7") and cantilever (2'-3") -->
+  <line class="dim" x1="525" y1="495" x2="525" y2="147.5"/>
+  <line class="dim-tick" x1="520" y1="495" x2="530" y2="495"/>
+  <line class="dim-tick" x1="520" y1="147.5" x2="530" y2="147.5"/>
+  <text x="548" y="321" class="dim-text" transform="rotate(90, 548, 321)">11'-7" (back-span)</text>
+
+  <line class="dim" x1="525" y1="147.5" x2="525" y2="80"/>
+  <line class="dim-tick" x1="520" y1="80" x2="530" y2="80"/>
+  <text x="548" y="114" class="dim-text" transform="rotate(90, 548, 114)">2'-3" (c.l.)</text>
+
+  <!-- Post spacing dimensions (below beam line) -->
+  <line class="dim" x1="80" y1="200" x2="287.5" y2="200"/>
+  <line class="dim-tick" x1="80" y1="195" x2="80" y2="205"/>
+  <line class="dim-tick" x1="287.5" y1="195" x2="287.5" y2="205"/>
+  <text x="184" y="215" class="dim-text">~6'-11" o.c.</text>
+
+  <line class="dim" x1="287.5" y1="200" x2="495" y2="200"/>
+  <line class="dim-tick" x1="495" y1="195" x2="495" y2="205"/>
+  <text x="391" y="215" class="dim-text">~6'-11" o.c.</text>
+
+  <!-- Joist spacing note -->
+  <text x="287" y="340" class="label" text-anchor="middle">Joists: 2×8 PT SP #2 @ 16" o.c. (typ.)</text>
+  <text x="287" y="356" class="label" text-anchor="middle">LUS28 hanger at ledger; H2.5A hurricane tie at beam</text>
+
+  <!-- Cantilever zone shading hint (above beam) -->
+  <text x="287" y="105" class="label" text-anchor="middle">— cantilever zone —</text>
+
+  <!-- Key -->
+  <g transform="translate(60, 565)">
+    <text x="0" y="0" class="label-bold">Key:</text>
+    <line class="ledger" x1="40" y1="-4" x2="80" y2="-4"/>
+    <text x="84" y="0" class="label">Ledger / Beam (2×8 PT)</text>
+    <line class="joist" x1="230" y1="-4" x2="265" y2="-4"/>
+    <text x="270" y="0" class="label">Joist @ 16" o.c.</text>
+    <rect class="post" x="380" y="-9" width="10" height="10"/>
+    <text x="396" y="0" class="label">6×6 post on pier footing</text>
+    <line class="clip-rim" x1="510" y1="-4" x2="545" y2="-4" stroke="#c83"/>
+    <text x="550" y="0" class="label">Angled rim (clip)</text>
+  </g>
+</svg>
+
+_SVG drawing above is schematic and to scale; all specified dimensions govern over drawing measurements. The ledger (bottom / south edge) is attached to the house rim joist. The clipped corners, both at the north (outer) edge, are framed structurally with 23" mitered rim joists per the Clipped-Corner Framing section above. The stair opening is on the east rim, 36" wide, beginning 67" from the house; see the Stairs and Bottom Landing section for stair framing._
