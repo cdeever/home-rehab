@@ -43,7 +43,7 @@ weight: 2
     - **Handrails:** Graspable handrail per IRC R311.7.8 on both sides (34"–38" above nosings, Type I profile, continuous, returns to guardrail post at top and newel at bottom).
     - **Guardrail continuity:** Deck guardrail returns around the stair opening on the east side; open side of stairs carries a guardrail to 34" min (measured vertically from tread nosings) per IRC R312.1.2.
     - **Bottom landing:** 36" × 36" level paver pad set on 4" minimum compacted gravel base, aligned with the bottom of the stairs. Satisfies the landing-at-stair-bottom minimum per IRC R311.7.6 (landing ≥ stair width × 36" in travel direction).
-10. **Lighting / electrical.** Out of scope for this project. No new electrical work; no modification to any existing exterior receptacle or fixture. An electrical permit is not required for this project.
+10. **Lighting / electrical.** Out of scope for this project. No new electrical work; no modification to any existing exterior receptacle or fixture.
 11. **Gas stub at ledger (by licensed plumber).** The existing gas stub at the deck ledger will be removed or capped as needed to allow installation of a continuous, code-compliant ledger with no utility interference. Work to be performed by a licensed Ohio plumbing contractor (per ORC § 4740), scheduled between deck demolition and new ledger installation. This step is documented so the deck reviewer sees that the ledger notch is being eliminated (not merely hidden by new framing) and that no new gas piping is introduced as part of the deck reconstruction.
 
 ## What Is Not Changing
