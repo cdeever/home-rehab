@@ -22,7 +22,7 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 | Footing diameter | 18" dia. (sized for tributary area ≈ 48 sq ft per post at 1,500 psf presumptive bearing — FCDG Sheet 2, Table R507.3.1) |
 | Footing thickness | 8 in. min. |
 | Concrete strength | 3,000 psi minimum at 28 days |
-| Reinforcement | (4) #4 vertical bars, tied |
+| Reinforcement | Per Franklin County Deck Guide (unreinforced pier is acceptable at this scale; owner may include (4) #4 vertical bars for robustness, optional) |
 
 ## Posts
 
@@ -58,21 +58,22 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 | Maximum cantilever (allowable) | 2'-3" per FCDG Sheet 3, Table R507.6 (also ≤ ¼ back-span per R507.6) |
 | Actual cantilever | 2'-3" — beam to outer edge |
 | Joist-to-ledger | Simpson LUS28 face-mount hanger |
-| Joist-to-beam | Bear on top of beam; hurricane tie (Simpson H2.5A) each joist |
+| Joist-to-beam | Joists bear fully on top of beam and are mechanically secured with Simpson H2.5A hurricane ties for uplift resistance |
 
 _Note: The 2×8 joist depth is dictated by the 2×8 ledger — a face-mounted joist cannot be deeper than the ledger it hangs from._
 
 ## Ledger Attachment
 
-Per IRC R507.9.
+Per IRC R507.9. Positive mechanical connection to the house floor framing.
 
 | Parameter | Value |
 |---|---|
-| Ledger size | Match joist depth, PT, ground-contact rated |
-| Fastener | ½" dia. through-bolt with washers, or ½" lag screw where bolts not accessible |
-| Fastener spacing | Per Table R507.9.1.3(1) based on joist span |
-| Flashing | Continuous metal drip cap over top of ledger; step flashing where it meets wall cladding |
-| Attachment substrate | House rim joist (2× lumber) — verify solid backing, not sheathing alone |
+| Ledger size | 2×8 PT SP #2, ground-contact rated |
+| Fastener | ½" dia. hot-dipped galvanized through-bolt with washers (preferred); ½" lag screw where through-bolt access from the interior is not practical |
+| Fastener spacing | Per IRC Table R507.9.1.3(1) based on actual joist span of 11'-7" |
+| Attachment substrate | Solid sawn lumber house rim joist (2× band joist). Installation into rim board (OSB/LVL-composite rim) or sheathing alone is not permitted. Owner to verify rim-joist type and condition before ledger install; replace rot-compromised rim lumber prior to ledger attachment. |
+| Lateral load connection | (2) Simpson DTT2Z tension ties per IRC R507.9.2, installed near the ends of the ledger, connecting the deck joists through the rim joist to interior floor framing (positive connection to house floor framing, not to sheathing alone). Detail per Franklin County Deck Guide. |
+| Flashing | Corrosion-resistant metal drip cap / Z-flashing continuous over the top of the ledger; step flashing where ledger meets wall cladding; integrate with existing WRB |
 
 ## Guardrail / Handrail
 
@@ -83,7 +84,7 @@ Per IRC R312 and R311.7.8.
 | Guardrail required | Yes — deck measures 28" to ~30" above grade depending on measurement point; design provides guardrail to satisfy IRC R312 at the worst-case 30" condition |
 | Guardrail height | 36 in. minimum from deck surface to top rail |
 | Balusters | 4 in. sphere cannot pass |
-| Guardrail post attachment | Simpson DTT2Z or equivalent hold-down; no notched posts |
+| Guardrail post attachment | Guardrail posts mounted **inside** the rim joist with full-height solid blocking between joists; secured with Simpson DTT2Z hold-down tension tie per IRC R507.10. Posts are not notched. |
 | Handrail height (stairs) | 34–38 in. above nosing |
 | Handrail grip | Type I or II per IRC R311.7.8.5 |
 
@@ -102,7 +103,7 @@ Per IRC R311.7. Single stair run, exits the east (right) side of the deck.
 | Nosing | ¾" min. to 1¼" max. projection (R311.7.5.3) |
 | Stringers | (3) 2×12 PT SP #2, notched, 16" o.c. clear |
 | Stringer-to-deck rim | Simpson LSC stair stringer connector at top, (2) per stringer |
-| Stringer-at-landing | Galvanized angle bracket anchored to paver base with concrete screws; bottom of stringer sits on PT 2× kicker plate |
+| Stringer-at-landing | Bottom of stringer sits on a PT 2×6 kicker plate anchored to the compacted aggregate base **beneath** the paver finish — pavers are the finish surface only, not structural support. Kicker plate anchored to base with HDG concrete screws; galvanized angle bracket ties stringer to kicker. |
 | Treads / risers (finish) | 5/4×6 or 2×6 PT decking to match deck; closed risers |
 | Handrail | Both sides, 34"–38" above tread nosings, Type I graspable profile, continuous, returns at both ends (R311.7.8) |
 | Guardrail on open side | 34" min. above nosings, 4" sphere rule on infill (R312.1.2 / R312.1.3) |
