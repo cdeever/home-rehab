@@ -57,7 +57,7 @@ Per IRC R507.9.2, at least two tension ties (e.g., Simpson DTT2Z) connect the de
 
 ## Gas Stub at Ledger (Coordinating Scope)
 
-The current ledger has a notch for an exterior gas stub. A licensed Ohio plumbing contractor (ORC § 4740) will remove or cap the stub as needed so that the new ledger can be installed continuous with no utility interference. No separate gas permit is required for this work.
+The current ledger has a notch for an exterior gas stub. Owner is engaging a licensed Ohio plumbing contractor (per ORC § 4740) to remove or cap the stub as needed so that the new ledger can be installed continuous with no utility interference.
 
 Notching limits that would prohibit preserving the current penetration in the new ledger:
 
