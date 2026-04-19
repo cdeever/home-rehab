@@ -35,6 +35,18 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 | Post-to-beam connector | Simpson AC6Z or PCZ post cap |
 | Max post height | 14 ft per FCDG Sheet 5, Table R507.4 — tallest post on this deck well under limit |
 
+### Post / Footing Layout (plan dimensions)
+
+| Post | Offset east from west deck edge | Offset north from house wall (beam latitude) |
+|---|---|---|
+| P1 (west) | 0" (centerline at west rim) | 11'-7" |
+| P2 (middle) | 6'-11" (83") | 11'-7" |
+| P3 (east) | 13'-10" (166"; centerline at east rim) | 11'-7" |
+
+End post centerlines are on the rim line; in construction they may be inset ~3" inboard of the outer face of the rim joist so the full 6×6 section sits below the deck — builder discretion, does not affect the dimensions above.
+
+_Existing buried 4×4 posts at the approximate 11'-0" latitude are not code-compliant footings (post-in-ground method, not permitted under RCO R507). They are being removed entirely during demolition — see [Scope of Work, Step 1](../scope-of-work/#work-to-be-performed). The new pier footings are augered to 32" below finished grade regardless of any disturbed soil from prior post locations; bearing surface at the bottom of each new hole is undisturbed native soil._
+
 ## Beams
 
 | Parameter | Value |
