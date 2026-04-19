@@ -29,18 +29,18 @@ Per Franklin County Auditor footprint record (see `deck-permit/house-dimensions.
 
 Features labeled with X's outside the outline on the Auditor drawing (`WDDK`, `BAY`, `OH`) indicate the existing **wood deck**, **bay window**, and roof **overhang** — excluded from the measured building footprint.
 
-_Note on the auditor's deck record:_ the auditor's file reports the existing wood deck as **316 sq ft**, but a current tape measurement of the as-built deck is **13'-10" × 13'-10" ≈ 191 sq ft** (or ~189 sq ft accounting for the two clipped corners). The auditor figure is stale — likely reflects a previous larger deck configuration or an out-of-date measurement that was never updated. The reconstruction matches the current measured footprint, not the auditor's historical figure. No change in footprint triggers a zoning review.
+_Note on the auditor's deck record:_ the auditor's file reports the existing wood deck as **316 sq ft**, but a current tape measurement of the as-built deck is **14'-0" deep × 13'-10" wide ≈ 194 sq ft** (or ~192 sq ft accounting for the two clipped corners). The auditor figure is stale — likely reflects a previous larger deck configuration or an out-of-date measurement that was never updated. The reconstruction matches the current measured footprint, not the auditor's historical figure. No change in footprint triggers a zoning review.
 
 ## Lot Coverage
 
 | Component | Area | Notes |
 |---|---|---|
 | Building ground footprint (house + garage + stoop) | ~1,660 sq ft | Per auditor record |
-| Proposed deck | ~189 sq ft | 13'-10" × 13'-10" minus two ~1 sq ft corner clips |
-| **Subtotal of enclosed/structural coverage** | **~1,849 sq ft** | |
+| Proposed deck | ~192 sq ft | 14'-0" × 13'-10" minus two ~1 sq ft corner clips |
+| **Subtotal of enclosed/structural coverage** | **~1,852 sq ft** | |
 | Stair treads (at-grade flatwork) | ~8 sq ft | Typically exempt from lot-coverage tally |
 | Paver landing (at-grade flatwork) | 9 sq ft | Typically exempt |
-| **Lot coverage ratio** | **~21.7 %** | 1,849 sq ft ÷ 8,500 sq ft |
+| **Lot coverage ratio** | **~21.8 %** | 1,852 sq ft ÷ 8,500 sq ft |
 | **Zoning maximum allowed** | 50 % | SR district per Columbus City Code §3332.18(D) |
 
 Coverage is effectively unchanged from the existing condition (deck footprint is identical to the existing deck).
@@ -62,20 +62,20 @@ Deck footprint is unchanged from the existing approved footprint — no zoning v
 | Min side yard — each side | 5 ft | §3332.26(B) | West: 9'-6"  •  East: 42 ft (to deck edge) | ✓ |
 | Sum of side yards ≥ 20% of lot width, capped at 16 ft | 16 ft (cap) | §3332.25(B) | 51'-6" total | ✓ |
 | Rear yard area ≥ 25% of lot area | ~2,125 sq ft | §3332.27 | ~6,000+ sq ft of open rear yard remains after deck footprint | ✓ |
-| Max lot coverage (all buildings) | 50% of lot area | §3332.18(D) | ~21.7% (house + garage + stoop + deck) | ✓ |
+| Max lot coverage (all buildings) | 50% of lot area | §3332.18(D) | ~21.8% (house + garage + stoop + deck) | ✓ |
 | Max building height | 35 ft (H-35) | §3332.29 | ~30" deck surface | ✓ |
 
 **Setback distances from deck edge to property lines (informational):**
 
 | Dimension | As Built (existing) | As Proposed |
 |---|---|---|
-| Rear setback to deck edge (north edge → rear property line) | 40 ft | 40 ft (unchanged) |
+| Rear setback to deck edge (north edge → rear property line) | 39'-10" | 39'-10" (unchanged) |
 | West side setback to deck edge (binding, no projections) | 9'-6" | 9'-6" (unchanged) |
 | East side setback to deck edge | 42 ft | 42 ft (unchanged) |
 | East side setback to stair nose (~33" projection) | ~39'-3" | ~39'-3" |
 | East side setback to paver landing edge (at-grade flatwork) | ~36'-3" | ~36'-3" |
 
-**§3332.28 (side/rear yard obstruction) note:** decks are not on the list of structures exempt from a *required* yard, but the deck does not intrude into the 5-ft required side yard (west side yard is 9'-6") or reduce the required rear yard area below 25% of lot (deck occupies ~189 sq ft of ~6,000+ sq ft of rear yard space — ~5,800 sq ft remains, well above the ~2,125 sq ft requirement). Therefore the deck is not an obstruction within the meaning of §3332.28.
+**§3332.28 (side/rear yard obstruction) note:** decks are not on the list of structures exempt from a *required* yard, but the deck does not intrude into the 5-ft required side yard (west side yard is 9'-6") or reduce the required rear yard area below 25% of lot (deck occupies ~192 sq ft of ~6,000+ sq ft of rear yard space — ~5,800 sq ft remains, well above the ~2,125 sq ft requirement). Therefore the deck is not an obstruction within the meaning of §3332.28.
 
 ## Site Drawing
 
@@ -131,9 +131,9 @@ Deck footprint is unchanged from the existing approved footprint — no zoning v
 <rect class="house-shape" x="215" y="470" width="16" height="28"/>
 <text x="200" y="385" class="lbl-b">HOUSE</text>
 <text x="125" y="475" class="lbl">Garage</text>
-<polygon class="deck-shape" points="98,322 98,272.1 103.4,266.7 147.9,266.7 153.3,272.1 153.3,322"/>
+<polygon class="deck-shape" points="98,322 98,271.4 103.4,266 147.9,266 153.3,271.4 153.3,322"/>
 <text x="126" y="298" class="lbl-b">DECK</text>
-<text x="126" y="311" class="lbl">13'-10" x 13'-10"</text>
+<text x="126" y="311" class="lbl">14'-0" × 13'-10"</text>
 <polygon class="stair-shape" points="153.3,299.7 164.3,299.7 164.3,287.7 153.3,287.7"/>
 <text x="178" y="296" class="lbl">stair</text>
 <rect class="paver-shape" x="164.3" y="287.7" width="12" height="12"/>
@@ -146,10 +146,10 @@ Deck footprint is unchanged from the existing approved footprint — no zoning v
 <line class="setback-tick" x1="153.3" y1="305" x2="153.3" y2="315"/>
 <line class="setback-tick" x1="337" y1="305" x2="337" y2="315"/>
 <text x="245" y="304" class="setback-text">42'-0" (E, to deck edge)</text>
-<line class="setback-line" x1="125" y1="266.7" x2="125" y2="71"/>
-<line class="setback-tick" x1="120" y1="266.7" x2="130" y2="266.7"/>
+<line class="setback-line" x1="125" y1="266" x2="125" y2="71"/>
+<line class="setback-tick" x1="120" y1="266" x2="130" y2="266"/>
 <line class="setback-tick" x1="120" y1="71" x2="130" y2="71"/>
-<text x="114" y="169" class="setback-text" transform="rotate(-90, 114, 169)">40'-0" (N, rear)</text>
+<text x="114" y="169" class="setback-text" transform="rotate(-90, 114, 169)">39'-10" (N, rear)</text>
 <line class="setback-line" x1="176.3" y1="340" x2="337" y2="340"/>
 <line class="setback-tick" x1="176.3" y1="335" x2="176.3" y2="345"/>
 <line class="setback-tick" x1="337" y1="335" x2="337" y2="345"/>
@@ -175,7 +175,7 @@ Typical content to verify is present (checklist for review against the drawing):
 - Property lines with dimensions ✓
 - House footprint with rear wall noted ✓ (deck attaches at the 2-story rear wall)
 - Existing deck footprint — same as proposed (unchanged)
-- Proposed deck footprint ✓ — 13'-10" × 13'-10" with 23" diagonal clips at outer corners
+- Proposed deck footprint ✓ — 14'-0" deep × 13'-10" wide with 23" diagonal clips at outer corners
 - Stair and paver landing — 36" wide stair exit on east, 67" from house; 36" × 36" paver ✓
 - Distance from each deck edge to nearest property line ✓ (green dashed setbacks)
 - North arrow and scale bar ✓

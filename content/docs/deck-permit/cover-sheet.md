@@ -29,7 +29,7 @@ weight: 1
 
 ## Project Description
 
-> Full reconstruction of the existing rear deck at the above address. The existing deck — including ledger, posts, beams, joists, decking, railings, stairs, and footings — will be demolished in its entirety and rebuilt from the footings up with new pressure-treated lumber on new concrete pier footings. No existing material is being reused: on-site inspection has confirmed the framing has deteriorated beyond salvage, and the existing ledger does not meet current IRC R507.9 attachment / flashing requirements. Overall footprint (13'-10" × 13'-10" with the two outside corners clipped diagonally by 23"), height above grade, point of attachment to the house, and use (private residential rear deck) are unchanged. The reconstruction brings the assembly into compliance with current IRC / Franklin County Deck Guide provisions.
+> Full reconstruction of the existing rear deck at the above address. The existing deck — including ledger, posts, beams, joists, decking, railings, stairs, and footings — will be demolished in its entirety and rebuilt from the footings up with new pressure-treated lumber on new concrete pier footings. No existing material is being reused: on-site inspection has confirmed the framing has deteriorated beyond salvage, and the existing ledger does not meet current IRC R507.9 attachment / flashing requirements. Overall footprint (14'-0" deep × 13'-10" wide with the two outside corners clipped diagonally by 23"), height above grade, point of attachment to the house, and use (private residential rear deck) are unchanged. The reconstruction brings the assembly into compliance with current IRC / Franklin County Deck Guide provisions.
 
 ## Approvals Required
 

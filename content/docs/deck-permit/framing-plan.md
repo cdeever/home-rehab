@@ -7,11 +7,11 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 
 ## Overall Framing Layout
 
-- Deck footprint: 13'-10" × 13'-10", with the two outer corners (opposite the house) clipped diagonally — cut length = 23" (hypotenuse), legs = ~16.3".
+- Deck footprint: **14'-0" deep (N–S, out from house) × 13'-10" wide (E–W, along house)**, with the two outer corners (opposite the house) clipped diagonally — cut length = 23" (hypotenuse), legs = ~16.3".
 - Joists run perpendicular to the house. Ledger on the house wall, single beam near the outer edge.
-- Joist back-span (ledger to beam) = **11'-7"**. Joist cantilever past beam to outer edge = **2'-3"**. Total deck depth = 13'-10".
-- Beam runs parallel to the house, length = 13'-10", supported by (3) 6×6 posts.
-- **Deck surface slope:** ⅛" per foot (~1%) away from the house — ~1¾" total drop across the 13'-10" depth. Not code-required (IRC R507 does not mandate deck surface slope for PT gapped-board decks), but added as best practice for moisture management. Achieved by setting the top of the beam **1½" below** the top of the ledger (matches ⅛" × 11'-7" back-span = 1.45"); joists then carry the same slope through the 2'-3" cantilever so the outer rim sits ~1¾" below the ledger top.
+- Joist back-span (ledger to beam) = **11'-9"**. Joist cantilever past beam to outer edge = **2'-3"**. Total deck depth = 14'-0".
+- Beam runs parallel to the house, length = 13'-10" (matches deck width), supported by (3) 6×6 posts.
+- **Deck surface slope:** ⅛" per foot (~1%) away from the house — ~1¾" total drop across the 14'-0" depth. Not code-required (IRC R507 does not mandate deck surface slope for PT gapped-board decks), but added as best practice for moisture management. Achieved by setting the top of the beam **1½" below** the top of the ledger (matches ⅛" × 11'-9" back-span = 1.47"); joists then carry the same slope through the 2'-3" cantilever so the outer rim sits ~1¾" below the ledger top.
 
 ## Footings
 
@@ -39,13 +39,13 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 
 | Post | Offset east from west deck edge | Offset north from house wall (beam latitude) |
 |---|---|---|
-| P1 (west) | 0" (centerline at west rim) | 11'-7" |
-| P2 (middle) | 6'-11" (83") | 11'-7" |
-| P3 (east) | 13'-10" (166"; centerline at east rim) | 11'-7" |
+| P1 (west) | 0" (centerline at west rim) | 11'-9" |
+| P2 (middle) | 6'-11" (83") | 11'-9" |
+| P3 (east) | 13'-10" (166"; centerline at east rim) | 11'-9" |
 
 End post centerlines are on the rim line; in construction they may be inset ~3" inboard of the outer face of the rim joist so the full 6×6 section sits below the deck — builder discretion, does not affect the dimensions above.
 
-_Existing buried 4×4 posts at the approximate 11'-0" latitude are not code-compliant footings (post-in-ground method, not permitted under RCO R507). They are being removed entirely during demolition — see [Scope of Work, Step 1](../scope-of-work/#work-to-be-performed). The new pier footings are augered to 32" below finished grade regardless of any disturbed soil from prior post locations; bearing surface at the bottom of each new hole is undisturbed native soil._
+_Existing buried 4×4 posts at the approximate 12'-0" latitude are not code-compliant footings (post-in-ground method, not permitted under RCO R507). They are being removed entirely during demolition — see [Scope of Work, Step 1](../scope-of-work/#work-to-be-performed). The new beam line sits ~3" inboard (south) of the old post row, so each new pier hole may pass through part of an old post's disturbed zone; this is acceptable because each new pier is augered fully to 32" below finished grade and the bearing surface at the bottom of the hole is undisturbed native soil below any old disturbed backfill._
 
 ## Beams
 
@@ -66,7 +66,7 @@ _Existing buried 4×4 posts at the approximate 11'-0" latitude are not code-comp
 | Joist size | 2×8 Southern Pine #2, PT |
 | Spacing | 16" o.c. |
 | Maximum span (allowable) | 11'-10" per FCDG Sheet 3, Table R507.6 (SP 2×8 at 16" o.c., 40 psf LL + 10 psf DL) |
-| Actual back-span | 11'-7" — ledger to beam |
+| Actual back-span | 11'-9" — ledger to beam |
 | Maximum cantilever (allowable) | 2'-3" per FCDG Sheet 3, Table R507.6 (also ≤ ¼ back-span per R507.6) |
 | Actual cantilever | 2'-3" — beam to outer edge |
 | Joist-to-ledger | Simpson LUS28 face-mount hanger |
@@ -82,7 +82,7 @@ Per IRC R507.9. Positive mechanical connection to the house floor framing.
 |---|---|
 | Ledger size | 2×8 PT SP #2, ground-contact rated |
 | Fastener | ½" dia. hot-dipped galvanized through-bolt with washers (preferred); ½" lag screw where through-bolt access from the interior is not practical |
-| Fastener spacing | **23" o.c. staggered for ½" through-bolts** (or 15" o.c. staggered for ½" lag screws) per RCO Table 507.9.1.3(1) — 2×8 SP joist, 11'-7" back-span, 40 psf LL + 10 psf DL. Edge/end distances per RCO Figures 507.9.1.3(1) and 507.9.1.3(2). |
+| Fastener spacing | **23" o.c. staggered for ½" through-bolts** (or 15" o.c. staggered for ½" lag screws) per RCO Table 507.9.1.3(1) — 2×8 SP joist, 11'-9" back-span, 40 psf LL + 10 psf DL. Edge/end distances per RCO Figures 507.9.1.3(1) and 507.9.1.3(2). |
 | Attachment substrate | Solid sawn lumber house band joist (also called the rim joist) — 2× lumber. Installation into rim board (OSB/LVL-composite rim) or sheathing alone is not permitted. Owner to verify band-joist type and condition before ledger install; replace rot-compromised lumber prior to ledger attachment. |
 | Lateral load connection | (2) Simpson DTT2Z tension ties per RCO 507.9.2, located at approximately the **¼-points along the ledger**, connecting the deck joists through the band joist to interior floor framing (positive connection to house floor framing, not to sheathing alone). Detail per Franklin County Deck Guide. |
 | Flashing | Corrosion-resistant metal drip cap / Z-flashing continuous over the top of the ledger; step flashing where ledger meets wall cladding; integrate with existing WRB |
@@ -165,24 +165,24 @@ The two outer corners (opposite the house) are clipped diagonally — 23" hypote
 <polygon class="post-fill" points="0,-30 -5,-18 5,-18"/>
 <text x="0" y="12" class="lbl-bc">N</text>
 </g>
-<polygon class="rim" points="80,495 80,121 121,80 454,80 495,121 495,495"/>
+<polygon class="rim" points="80,495 80,116 121,75 454,75 495,116 495,495"/>
 <line class="ledger" x1="80" y1="495" x2="495" y2="495"/>
 <text x="287" y="512" class="lbl-bc">LEDGER — 2×8 PT SP #2 bolted to house rim joist per IRC R507.9</text>
-<line class="joist" x1="120" y1="495" x2="120" y2="80"/>
-<line class="joist" x1="160" y1="495" x2="160" y2="80"/>
-<line class="joist" x1="200" y1="495" x2="200" y2="80"/>
-<line class="joist" x1="240" y1="495" x2="240" y2="80"/>
-<line class="joist" x1="280" y1="495" x2="280" y2="80"/>
-<line class="joist" x1="320" y1="495" x2="320" y2="80"/>
-<line class="joist" x1="360" y1="495" x2="360" y2="80"/>
-<line class="joist" x1="400" y1="495" x2="400" y2="80"/>
-<line class="joist" x1="440" y1="495" x2="440" y2="80"/>
-<line class="joist" x1="480" y1="495" x2="480" y2="106"/>
-<line class="beam" x1="80" y1="147.5" x2="495" y2="147.5"/>
-<text x="287" y="141" class="lbl-bc">BEAM — 2-ply 2×8 PT SP #2, 13'-10" long</text>
-<rect class="post-fill" x="74" y="141.5" width="12" height="12"/>
-<rect class="post-fill" x="281.5" y="141.5" width="12" height="12"/>
-<rect class="post-fill" x="489" y="141.5" width="12" height="12"/>
+<line class="joist" x1="120" y1="495" x2="120" y2="75"/>
+<line class="joist" x1="160" y1="495" x2="160" y2="75"/>
+<line class="joist" x1="200" y1="495" x2="200" y2="75"/>
+<line class="joist" x1="240" y1="495" x2="240" y2="75"/>
+<line class="joist" x1="280" y1="495" x2="280" y2="75"/>
+<line class="joist" x1="320" y1="495" x2="320" y2="75"/>
+<line class="joist" x1="360" y1="495" x2="360" y2="75"/>
+<line class="joist" x1="400" y1="495" x2="400" y2="75"/>
+<line class="joist" x1="440" y1="495" x2="440" y2="75"/>
+<line class="joist" x1="480" y1="495" x2="480" y2="101"/>
+<line class="beam" x1="80" y1="142.5" x2="495" y2="142.5"/>
+<text x="287" y="136" class="lbl-bc">BEAM — 2-ply 2×8 PT SP #2, 13'-10" long</text>
+<rect class="post-fill" x="74" y="136.5" width="12" height="12"/>
+<rect class="post-fill" x="281.5" y="136.5" width="12" height="12"/>
+<rect class="post-fill" x="489" y="136.5" width="12" height="12"/>
 <text x="80" y="175" class="lbl-c">P1</text>
 <text x="287" y="175" class="lbl-c">P2</text>
 <text x="495" y="175" class="lbl-c">P3</text>
@@ -192,25 +192,25 @@ The two outer corners (opposite the house) are clipped diagonally — 23" hypote
 <text x="540" y="311" class="lbl">(36" wide,</text>
 <text x="540" y="324" class="lbl">67" from</text>
 <text x="540" y="337" class="lbl">house)</text>
-<line class="clip-rim" x1="80" y1="121" x2="121" y2="80"/>
-<line class="clip-rim" x1="454" y1="80" x2="495" y2="121"/>
-<text x="68" y="95" class="lbl" transform="rotate(-45, 68, 95)">23" clip</text>
-<text x="508" y="95" class="lbl" transform="rotate(45, 508, 95)">23" clip</text>
+<line class="clip-rim" x1="80" y1="116" x2="121" y2="75"/>
+<line class="clip-rim" x1="454" y1="75" x2="495" y2="116"/>
+<text x="68" y="90" class="lbl" transform="rotate(-45, 68, 90)">23" clip</text>
+<text x="508" y="90" class="lbl" transform="rotate(45, 508, 90)">23" clip</text>
 <line class="dim" x1="80" y1="55" x2="495" y2="55"/>
 <line class="dim-tick" x1="80" y1="50" x2="80" y2="60"/>
 <line class="dim-tick" x1="495" y1="50" x2="495" y2="60"/>
 <text x="287" y="48" class="dim-text">13'-10"</text>
-<line class="dim" x1="55" y1="80" x2="55" y2="495"/>
-<line class="dim-tick" x1="50" y1="80" x2="60" y2="80"/>
+<line class="dim" x1="55" y1="75" x2="55" y2="495"/>
+<line class="dim-tick" x1="50" y1="75" x2="60" y2="75"/>
 <line class="dim-tick" x1="50" y1="495" x2="60" y2="495"/>
-<text x="45" y="287" class="dim-text" transform="rotate(-90, 45, 287)">13'-10"</text>
-<line class="dim" x1="525" y1="495" x2="525" y2="147.5"/>
+<text x="45" y="285" class="dim-text" transform="rotate(-90, 45, 285)">14'-0"</text>
+<line class="dim" x1="525" y1="495" x2="525" y2="142.5"/>
 <line class="dim-tick" x1="520" y1="495" x2="530" y2="495"/>
-<line class="dim-tick" x1="520" y1="147.5" x2="530" y2="147.5"/>
-<text x="548" y="321" class="dim-text" transform="rotate(90, 548, 321)">11'-7" (back-span)</text>
-<line class="dim" x1="525" y1="147.5" x2="525" y2="80"/>
-<line class="dim-tick" x1="520" y1="80" x2="530" y2="80"/>
-<text x="548" y="114" class="dim-text" transform="rotate(90, 548, 114)">2'-3" (c.l.)</text>
+<line class="dim-tick" x1="520" y1="142.5" x2="530" y2="142.5"/>
+<text x="548" y="319" class="dim-text" transform="rotate(90, 548, 319)">11'-9" (back-span)</text>
+<line class="dim" x1="525" y1="142.5" x2="525" y2="75"/>
+<line class="dim-tick" x1="520" y1="75" x2="530" y2="75"/>
+<text x="548" y="109" class="dim-text" transform="rotate(90, 548, 109)">2'-3" (c.l.)</text>
 <line class="dim" x1="80" y1="200" x2="287.5" y2="200"/>
 <line class="dim-tick" x1="80" y1="195" x2="80" y2="205"/>
 <line class="dim-tick" x1="287.5" y1="195" x2="287.5" y2="205"/>
@@ -220,7 +220,7 @@ The two outer corners (opposite the house) are clipped diagonally — 23" hypote
 <text x="391" y="215" class="dim-text">~6'-11" o.c.</text>
 <text x="287" y="340" class="lbl-c">Joists: 2×8 PT SP #2 @ 16" o.c. (typ.)</text>
 <text x="287" y="356" class="lbl-c">LUS28 hanger at ledger; H2.5A hurricane tie at beam</text>
-<text x="287" y="105" class="lbl-c">— cantilever zone —</text>
+<text x="287" y="100" class="lbl-c">— cantilever zone —</text>
 <g transform="translate(60, 565)">
 <text x="0" y="0" class="lbl-b">Key:</text>
 <line class="ledger" x1="40" y1="-4" x2="80" y2="-4"/>
