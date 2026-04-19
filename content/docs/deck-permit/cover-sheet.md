@@ -13,7 +13,8 @@ weight: 1
 | Parcel / Lot # | _Redacted from public repo — supplied on the permit submission cover_ |
 | Property Owner | Chris Deever |
 | Owner Contact | chris.deever@gmail.com |
-| Jurisdiction | Franklin County, Ohio |
+| Jurisdiction | City of Columbus, Franklin County, Ohio |
+| Zoning District | SR (Suburban Residential), H-35; Case Z75-010 (8/20/1975) |
 | Revision | 2 |
 | Revision Date | 2026-04-16 |
 
