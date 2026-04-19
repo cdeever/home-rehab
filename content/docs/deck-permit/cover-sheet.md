@@ -24,7 +24,7 @@ weight: 1
 |---|---|
 | Designer | Owner (DIY, owner-occupied residence) |
 | General Contractor | Owner (DIY, owner-occupied residence) — self-performed |
-| Plumbing Contractor (coordinating scope, not deck permit) | Licensed Ohio plumbing contractor (per ORC § 4740) — engaged separately for the gas-stub decommissioning under a Franklin County Public Health mechanical/gas permit. Company TBD at time of gas permit filing. |
+| Plumbing Contractor (coordinating scope, not deck permit) | Licensed Ohio plumbing contractor (per ORC § 4740) — engaged separately to remove or cap the existing gas stub at the ledger under a Franklin County Public Health mechanical/gas permit. Company TBD at time of gas permit filing. |
 | Electrical Contractor | N/A — no electrical in this scope |
 
 ## Project Description
@@ -37,4 +37,4 @@ weight: 1
 - Zoning (setback / lot coverage) — confirmed at original submission; no change in footprint
 - Electrical — N/A
 - Plumbing — N/A (for the deck permit)
-- Mechanical / Gas — **separate permit required** through Franklin County Public Health to decommission and cap an existing unused gas stub that currently notches through the ledger. Gas work to be performed by a licensed Ohio plumbing contractor per ORC § 4740. Scheduled to occur between deck demolition and new ledger installation. No outdoor gas service is being added; no new gas piping is in this project. See Scope of Work step 11.
+- Mechanical / Gas — **separate permit required** through Franklin County Public Health. The existing gas stub at the deck ledger will be removed or capped as needed to allow installation of a continuous, code-compliant ledger with no utility interference. Gas work to be performed by a licensed Ohio plumbing contractor per ORC § 4740. Scheduled to occur between deck demolition and new ledger installation. No outdoor gas service is being added; no new gas piping is in this project. See Scope of Work step 11.
