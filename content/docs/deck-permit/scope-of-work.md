@@ -17,12 +17,23 @@ weight: 2
 ## Work To Be Performed
 
 1. **Demolition.** Remove existing decking, railings, stairs, joists, beams, posts, and ledger. Dispose off-site.
-2. **Footings.** Install (3) new 18" diameter × 8" min. thickness concrete pier footings along the beam line, bearing on undisturbed soil at 32 in. below grade (Franklin County frost depth). Concrete 3,000 psi @ 28 days with (4) #4 vertical rebar per footing.
+2. **Pier footings.** Install (3) new concrete pier footings along the beam line, bearing on undisturbed soil at 32 in. below grade (Franklin County frost depth), 18" diameter minimum, with a pier stem extending from the footing up to ~2–3 in. above finished grade. Concrete 3,000 psi @ 28 days with (4) #4 vertical rebar tied with #3 stirrups per pier. Construction sequence:
+
+    1. **Layout.** Mark the (3) post centerlines along the beam line per the Framing Plan (~6'-11" o.c. over the 13'-10" beam length). Check alignment parallel to the house wall.
+    2. **Excavate.** Dig each hole to 32 in. minimum below finished grade. Flare the bottom of the hole to a bell ≥18 in. diameter if native soil requires increased bearing area. Bottom of hole must be undisturbed native soil — no loose fill.
+    3. **Base prep.** Tamp the bottom. If the hole encounters loose/organic soil, dig deeper to competent bearing or place 2–4 in. of compacted ¾" gravel.
+    4. **Forms.** Set a 12 in. dia. (min.) Sonotube or equivalent form from the bottom of the hole up through grade, trimmed 2–3 in. above grade. Brace plumb.
+    5. **Rebar cage.** Assemble (4) #4 vertical bars tied with #3 stirrups at 12 in. o.c.; suspend in the form with ≥3 in. concrete cover to sides and bottom (use rebar chairs or tie wire).
+    6. **Inspection hold-point.** **Call for Franklin County footing inspection before the pour.** Inspector verifies depth, bearing, rebar placement, and cover. Do not pour until released.
+    7. **Pour.** Place 3,000 psi concrete continuously. Consolidate with a rod or vibrator to eliminate voids. Slightly crown or dome the top of the stem to shed water away from the post base.
+    8. **Set anchor.** While concrete is still plastic, embed a ⅝ in. × 7 in. J-bolt or cast-in-place anchor for the Simpson ABU66Z, plumb and centered over the post centerline; match the ABU66Z's bolt pattern and projection per Simpson instructions.
+    9. **Cure.** Protect from freezing and rapid drying; allow 7 days minimum before loading with posts and beam.
+    10. **Install post bases.** Thread the Simpson ABU66Z onto each anchor bolt over a bearing plate, level, and tighten to spec. The standoff lifts the 6×6 post ≥1 in. above the concrete so the post end grain stays dry — IRC R507.4 / R317.1.
 3. **Posts.** Set (3) 6×6 Southern Pine #2 PT (UC4A) posts on the new footings using Simpson ABU66Z standoff post bases, spaced ~6'-11" o.c. along the 13'-10" beam line.
 4. **Beams.** Install one 2-ply 2×8 Southern Pine #2 PT beam, 13'-10" long, running parallel to the house at 11'-7" from the ledger. Connect plies with (2) rows of SDWS22500DB structural screws at 16" o.c., staggered. Attach to post tops with Simpson AC6Z or PCZ post caps.
 5. **Ledger.** Install new 2×8 PT (UC4A) ledger attached to the house rim joist with ½" diameter through-bolts at spacing per IRC Table R507.9.1.3(1), with continuous metal drip cap / Z-flashing over the ledger top and step flashing where ledger meets wall cladding.
 6. **Joists.** Install 2×8 PT SP #2 joists at 16" o.c., face-mounted to the ledger with Simpson LUS28 hangers, bearing on top of the beam, fastened with H2.5A hurricane ties. Joists cantilever 2'-3" past the beam to the outer edge. At the two clipped corners, joists terminate at the angled rim joist via Simpson LSSU210 skewed hangers; see Framing Plan for details.
-7. **Decking.** Install pressure-treated 5/4×6 Southern Pine decking over the joists, fastened with HDG ring-shank or composite-compatible deck screws per manufacturer instructions. Gap boards per installation guide for drainage.
+7. **Decking.** Install pressure-treated 5/4×6 Southern Pine decking over the joists, fastened with HDG ring-shank or composite-compatible deck screws per manufacturer instructions. Gap boards ⅛" min. for drainage. The deck follows a ⅛" per foot slope away from the house (~1¾" total drop) set during framing via beam elevation — see Framing Plan. (Slope is added as best practice for moisture management; not code-required for PT gapped-board decks.)
 8. **Railing.** Install code-compliant guardrail around the full perimeter (except the stair opening and the house side), per IRC R312: 36 in. min height from deck surface to top rail, 4 in. sphere rule on infill, 200 lbf concentrated load and 50 lbf/sq ft infill load capacity. Guardrail is included regardless of exact deck-to-grade measurement — see Existing Conditions.
 9. **Stairs and landing.** Install a single run of stairs off the east (right) side of the deck, carrying traffic from deck level down to grade:
     - **Opening in deck rim:** 36" wide, beginning 67" from the house-side edge of the deck (east rim) and extending north to 103" from the house.

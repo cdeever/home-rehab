@@ -7,10 +7,11 @@ All framing per 2018 IRC Section R507 and the Franklin County Deck Guide. Design
 
 ## Overall Framing Layout
 
-- Deck footprint: 13'-10" × 13'-10", with the two outer corners (opposite the house) clipped diagonally — cut length = 23" (hypotenuse), legs = ~16'-3¾" (16.3").
+- Deck footprint: 13'-10" × 13'-10", with the two outer corners (opposite the house) clipped diagonally — cut length = 23" (hypotenuse), legs = ~16.3".
 - Joists run perpendicular to the house. Ledger on the house wall, single beam near the outer edge.
 - Joist back-span (ledger to beam) = **11'-7"**. Joist cantilever past beam to outer edge = **2'-3"**. Total deck depth = 13'-10".
 - Beam runs parallel to the house, length = 13'-10", supported by (3) 6×6 posts.
+- **Deck surface slope:** ⅛" per foot (~1%) away from the house — ~1¾" total drop across the 13'-10" depth. Not code-required (IRC R507 does not mandate deck surface slope for PT gapped-board decks), but added as best practice for moisture management. Achieved by setting the top of the beam **1½" below** the top of the ledger (matches ⅛" × 11'-7" back-span = 1.45"); joists then carry the same slope through the 2'-3" cantilever so the outer rim sits ~1¾" below the ledger top.
 
 ## Footings
 
