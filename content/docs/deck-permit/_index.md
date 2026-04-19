@@ -6,7 +6,7 @@ excludeFromProgress: true
 outputs: ["HTML", "RSS", "Print"]
 project_name: "Deever Deck Reconstruction"
 permit_number: "DECKR2611750"
-project_address: "TBD"
+project_address: "Redacted from public repo"
 property_owner: "Chris Deever"
 jurisdiction: "Franklin County, Ohio"
 revision: "2"

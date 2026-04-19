@@ -12,8 +12,11 @@ weight: 6
 | Joists | Southern Pine #2 | 2×8 at 16" o.c. | PT, UC3B minimum |
 | Ledger | Southern Pine #2 | 2×8, full width of house-side edge | PT, UC4A (ground-contact) |
 | Angled rim joists (clipped corners) | Southern Pine #2 | 2×8, 23" long, 45° miter each end | PT, UC3B minimum |
-| Decking | _TBD — 5/4×6 PT / composite board_ | Per product | Per product |
+| Decking | Southern Pine | 5/4×6 radius-edge decking | PT, UC3B minimum |
 | Railing framing | Southern Pine #2 | Per Railing detail | PT |
+| Stair stringers | Southern Pine #2 | (3) 2×12, notched | PT, UC4A (ground-contact) |
+| Stair kicker plate | Southern Pine #2 | 2×4 or 2×6, at base of stringers | PT, UC4A |
+| Stair treads / risers | Southern Pine #2 or decking stock | 5/4×6 or 2×6 to match deck; closed risers | PT |
 
 All lumber tags / grade stamps to remain visible for inspection.
 
@@ -41,7 +44,8 @@ All fasteners in contact with PT lumber must be hot-dipped galvanized, stainless
 | Joist to angled rim (clipped corners) | Skewed face-mount hanger, 45° | LSSU210 (left or right as needed) |
 | Angled rim to perimeter rim (miter) | Structural screws | (2) SDWS22500DB per side + construction adhesive |
 | Guardrail post to rim | Hold-down tension tie | DTT2Z |
-| Stair stringer to deck | Angle | LSC or L70 |
+| Stair stringer to deck (top) | Stair stringer connector | LSC (one per stringer, each end as applicable) |
+| Stair kicker to paver base | HDG concrete screws | Tapcon or equivalent, ¼" × 2¾" (min.), (2) per stringer |
 
 All connectors to be ZMAX (G185) galvanization minimum, or stainless if coastal exposure — not applicable here.
 

@@ -25,7 +25,11 @@ Design conforms to the 2018 International Residential Code (IRC) as adopted by t
 | Ledger attachment | R507.9 |
 | Lateral load connection | R507.9.2 |
 | Guardrails | R312 |
-| Stairs | R311.7 |
+| Stairs — risers, treads, nosing | R311.7.5 |
+| Stair width | R311.7.1 |
+| Stair handrails | R311.7.8 |
+| Stair landings | R311.7.6 |
+| Stair guardrail | R312.1.2 |
 | Decking material | R507.7 |
 
 ## Franklin County Deck Guide Cross-References

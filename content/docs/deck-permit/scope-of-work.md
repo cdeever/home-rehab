@@ -22,10 +22,17 @@ weight: 2
 4. **Beams.** Install one 2-ply 2×8 Southern Pine #2 PT beam, 13'-10" long, running parallel to the house at 11'-7" from the ledger. Connect plies with (2) rows of SDWS22500DB structural screws at 16" o.c., staggered. Attach to post tops with Simpson AC6Z or PCZ post caps.
 5. **Ledger.** Install new 2×8 PT (UC4A) ledger attached to the house rim joist with ½" diameter through-bolts at spacing per IRC Table R507.9.1.3(1), with continuous metal drip cap / Z-flashing over the ledger top and step flashing where ledger meets wall cladding.
 6. **Joists.** Install 2×8 PT SP #2 joists at 16" o.c., face-mounted to the ledger with Simpson LUS28 hangers, bearing on top of the beam, fastened with H2.5A hurricane ties. Joists cantilever 2'-3" past the beam to the outer edge. At the two clipped corners, joists terminate at the angled rim joist via Simpson LSSU210 skewed hangers; see Framing Plan for details.
-7. **Decking.** Install _TBD — pressure-treated 5/4×6 / composite board / etc._, fastened per manufacturer instructions.
+7. **Decking.** Install pressure-treated 5/4×6 Southern Pine decking over the joists, fastened with HDG ring-shank or composite-compatible deck screws per manufacturer instructions. Gap boards per installation guide for drainage.
 8. **Railing.** Install code-compliant guardrail around the full perimeter (except the stair opening and the house side), per IRC R312: 36 in. min height from deck surface to top rail, 4 in. sphere rule on infill, 200 lbf concentrated load and 50 lbf/sq ft infill load capacity. Guardrail is included regardless of exact deck-to-grade measurement — see Existing Conditions.
-9. **Stairs.** _Include or remove based on design_. Rise / run to meet IRC R311.7.
-10. **Lighting / electrical.** _None in this scope_ / _existing exterior receptacle remains_ — confirm.
+9. **Stairs and landing.** Install a single run of stairs off the east (right) side of the deck, carrying traffic from deck level down to grade:
+    - **Opening in deck rim:** 36" wide, beginning 67" from the house-side edge of the deck (east rim) and extending north to 103" from the house.
+    - **Rise / run:** 4 risers × 7.5" (total 30") and 3 treads × 11" (total 33" run), within IRC R311.7.5 limits (max 7¾" rise, min 10" tread, ≤ ⅜" variation between risers).
+    - **Stringers:** (3) 2×12 Southern Pine #2 PT stringers, notched per IRC R311.7.3. Top of stringers hung from deck rim with Simpson LSC stair stringer connectors; bottom bearing on the landing pavers via galvanized angle brackets anchored with concrete screws.
+    - **Treads / risers:** 5/4×6 or 2×6 PT decking stock to match deck boards; closed risers.
+    - **Handrails:** Graspable handrail per IRC R311.7.8 on both sides (34"–38" above nosings, Type I profile, continuous, returns to guardrail post at top and newel at bottom).
+    - **Guardrail continuity:** Deck guardrail returns around the stair opening on the east side; open side of stairs carries a guardrail to 34" min (measured vertically from tread nosings) per IRC R312.1.2.
+    - **Bottom landing:** 36" × 36" level paver pad set on 4" minimum compacted gravel base, aligned with the bottom of the stairs. Satisfies the landing-at-stair-bottom minimum per IRC R311.7.6 (landing ≥ stair width × 36" in travel direction).
+10. **Lighting / electrical.** Out of scope for this project. No new electrical work; no modification to any existing exterior receptacle or fixture. An electrical permit is not required for this project.
 11. **Decommission unused gas stub (by licensed plumber, separate permit).** The gas line currently notched through the ledger has never been placed in service by the current owner — a propane grill has been used throughout ownership. Under a separate Franklin County Public Health mechanical/gas permit, a licensed Ohio plumbing contractor (per ORC § 4740) will:
     - Shut off the branch at the nearest upstream valve inside the crawl space.
     - Cut and remove the exterior stub that passes through the existing ledger notch.

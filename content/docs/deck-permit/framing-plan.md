@@ -86,6 +86,27 @@ Per IRC R312 and R311.7.8.
 | Handrail height (stairs) | 34–38 in. above nosing |
 | Handrail grip | Type I or II per IRC R311.7.8.5 |
 
+## Stairs and Bottom Landing
+
+Per IRC R311.7. Single stair run, exits the east (right) side of the deck.
+
+| Parameter | Value |
+|---|---|
+| Stair location | East side of deck; opening in east rim from 67" to 103" from the house |
+| Stair width | 36" minimum (IRC R311.7.1) |
+| Total rise | ~30" (matches deck-to-grade design height) |
+| Risers | 4 risers × 7.5" (≤ 7¾" max per R311.7.5.1) |
+| Treads | 3 treads × 11" run (≥ 10" min per R311.7.5.2) |
+| Riser/tread uniformity | ≤ ⅜" variation between risers and between treads |
+| Nosing | ¾" min. to 1¼" max. projection (R311.7.5.3) |
+| Stringers | (3) 2×12 PT SP #2, notched, 16" o.c. clear |
+| Stringer-to-deck rim | Simpson LSC stair stringer connector at top, (2) per stringer |
+| Stringer-at-landing | Galvanized angle bracket anchored to paver base with concrete screws; bottom of stringer sits on PT 2× kicker plate |
+| Treads / risers (finish) | 5/4×6 or 2×6 PT decking to match deck; closed risers |
+| Handrail | Both sides, 34"–38" above tread nosings, Type I graspable profile, continuous, returns at both ends (R311.7.8) |
+| Guardrail on open side | 34" min. above nosings, 4" sphere rule on infill (R312.1.2 / R312.1.3) |
+| Bottom landing | 36" × 36" paver pad, level, on 4" compacted gravel base (R311.7.6) |
+
 ## Clipped-Corner Framing
 
 The two outer corners (opposite the house) are clipped diagonally — 23" hypotenuse, ~16.3" along each leg. Framing follows the clipped shape structurally, not as a trim-only detail.

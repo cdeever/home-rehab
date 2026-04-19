@@ -9,8 +9,8 @@ weight: 1
 |---|---|
 | Project Name | Deever Deck Reconstruction |
 | Permit Number | DECKR2611750 |
-| Project Address | _TBD — fill in from `A-Deever Deck Reconstruction.pdf`_ |
-| Parcel / Lot # | _TBD_ |
+| Project Address | _Redacted from public repo — supplied on the permit submission cover (the deck project lives in a public GitHub repository for workflow reasons, and the owner's home address is intentionally not committed to source control)_ |
+| Parcel / Lot # | _Redacted from public repo — supplied on the permit submission cover_ |
 | Property Owner | Chris Deever |
 | Owner Contact | chris.deever@gmail.com |
 | Jurisdiction | Franklin County, Ohio |
@@ -22,8 +22,9 @@ weight: 1
 | Field | Value |
 |---|---|
 | Designer | Owner (DIY, owner-occupied residence) |
-| General Contractor | _TBD_ |
-| Electrical Contractor | _N/A — no electrical in this scope_ |
+| General Contractor | Owner (DIY, owner-occupied residence) — self-performed |
+| Plumbing Contractor (coordinating scope, not deck permit) | Licensed Ohio plumbing contractor (per ORC § 4740) — engaged separately for the gas-stub decommissioning under a Franklin County Public Health mechanical/gas permit. Company TBD at time of gas permit filing. |
+| Electrical Contractor | N/A — no electrical in this scope |
 
 ## Project Description
 
