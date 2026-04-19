@@ -58,7 +58,7 @@ Deck footprint is unchanged from the existing approved footprint — no zoning v
 | Standard | SR District Requirement | Citation | As Proposed | Complies |
 |---|---|---|---|---|
 | Min lot area | 7,200 sq ft | §3332.10 | ~8,500 sq ft | ✓ |
-| Min lot width (at front lot line) | 60 ft | §3332.05(A)(3) | ~69 ft (rear; front per plat) | ✓ |
+| Min lot width (at front lot line) | 60 ft | §3332.05(A)(3) | ~69 ft (front) / 69.32 ft (rear), per recorded plat | ✓ |
 | Min side yard — each side | 5 ft | §3332.26(B) | West: 9'-6"  •  East: 42 ft (to deck edge) | ✓ |
 | Sum of side yards ≥ 20% of lot width, capped at 16 ft | 16 ft (cap) | §3332.25(B) | 51'-6" total | ✓ |
 | Rear yard area ≥ 25% of lot area | ~2,125 sq ft | §3332.27 | ~6,000+ sq ft of open rear yard remains after deck footprint | ✓ |
@@ -168,7 +168,7 @@ Deck footprint is unchanged from the existing approved footprint — no zoning v
 </g>
 </svg>
 
-_SVG drawing above is schematic and approximately to scale; labeled dimensions govern. House footprint traced from the Franklin County Auditor record (see `deck-permit/house-dimensions.png`). Lot shape is drawn with north-south sides slightly non-parallel reflecting the 121.31' west / 124.05' east difference on the recorded plat. The front property line length is marked "per plat" pending confirmation. All setback dimensions (green dashed) are measured to the nearest structure on each side per Columbus City Code §3332.26 / §3332.27._
+_SVG drawing above is schematic and approximately to scale; labeled dimensions govern. House footprint traced from the Franklin County Auditor record (see `deck-permit/house-dimensions.png`). Lot shape is drawn with north-south sides slightly non-parallel reflecting the 121.31' west / 124.05' east difference on the recorded plat. Front (south) property line is approximately 69 ft per the recorded plat. All setback dimensions (green dashed) are measured to the nearest structure on each side per Columbus City Code §3332.26 / §3332.27._
 
 Typical content to verify is present (checklist for review against the drawing):
 
