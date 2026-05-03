@@ -10,7 +10,7 @@ weight: 2
 - Shape: square footprint with the two outside corners (opposite the house) clipped diagonally by 23".
 - Existing construction: pressure-treated lumber on concrete piers; ledger-attached to rim joist.
 - **Existing ledger does not meet current IRC R507.9** attachment / flashing requirements and must be fully replaced.
-- An existing ½" (nominal) gas stub passes through a notch in the existing ledger. Owner has engaged a licensed Ohio plumbing contractor to remove or cap the stub as needed prior to ledger installation, so the new ledger can be installed continuous with no utility interference (see Work To Be Performed step 11). No exterior gas supply is being added; no utility penetrations are planned at the new ledger.
+- The new ledger will be installed continuous with no utility penetrations.
 - Structural condition of remaining framing (posts, beams, joists, decking) has deteriorated to the point where none of it can be reused; owner has confirmed by on-site inspection that the entire assembly will be demolished and rebuilt from footings up.
 - Height above grade: measured at 28" at reference point; grade variation at the deck perimeter could reach 30" at the highest differential point. **Design treats the deck as ≥30" above grade**, triggering IRC R312 guardrail requirements — guardrail is included as part of this scope regardless of exact measurement.
 
@@ -44,7 +44,6 @@ weight: 2
     - **Guardrail continuity:** Deck guardrail returns around the stair opening on the east side; open side of stairs carries a guardrail to 34" min (measured vertically from tread nosings) per IRC R312.1.2.
     - **Bottom landing:** 36" × 36" level paver pad set on 4" minimum compacted gravel base, aligned with the bottom of the stairs. Satisfies the landing-at-stair-bottom minimum per IRC R311.7.6 (landing ≥ stair width × 36" in travel direction).
 10. **Lighting / electrical.** Out of scope for this project. No new electrical work; no modification to any existing exterior receptacle or fixture.
-11. **Gas stub at ledger (by licensed plumber).** The existing gas stub at the deck ledger will be removed or capped as needed to allow installation of a continuous, code-compliant ledger with no utility interference. Work to be performed by a licensed Ohio plumbing contractor (per ORC § 4740), scheduled between deck demolition and new ledger installation. This step is documented so the deck reviewer sees that the ledger notch is being eliminated (not merely hidden by new framing) and that no new gas piping is introduced as part of the deck reconstruction.
 
 ## What Is Not Changing
 

@@ -24,7 +24,6 @@ weight: 1
 |---|---|
 | Designer | Owner (DIY, owner-occupied residence) |
 | General Contractor | Owner (DIY, owner-occupied residence) — self-performed |
-| Plumbing Contractor (coordinating scope) | Licensed Ohio plumbing contractor (per ORC § 4740) — engaged separately to remove or cap the existing gas stub at the ledger. Company TBD. |
 | Electrical Contractor | N/A — no electrical in this scope |
 
 ## Project Description
@@ -36,5 +35,5 @@ weight: 1
 - Building (structural) — this submission
 - Zoning (setback / lot coverage) — confirmed at original submission; no change in footprint
 - Electrical — N/A
-- Plumbing — N/A (for the deck permit)
-- Mechanical / Gas — Owner is engaging a licensed Ohio plumbing contractor (per ORC § 4740) to remove or cap the existing gas stub at the deck ledger prior to ledger installation, so the new ledger can be installed continuous with no utility interference. Scheduled between deck demolition and new ledger installation. No outdoor gas service is being added; no new gas piping is in this project. See Scope of Work step 11.
+- Plumbing — N/A
+- Mechanical — N/A

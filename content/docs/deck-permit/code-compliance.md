@@ -55,13 +55,3 @@ Per IRC R507.9.2, at least two tension ties (e.g., Simpson DTT2Z) connect the de
 - Frost depth: 32 in. below finished grade.
 - Presumed soil bearing: 1,500 psf (per IRC Table R401.4.1, Class 4 — silt / sandy clay). Footings sized accordingly.
 
-## Gas Stub at Ledger (Coordinating Scope)
-
-The current ledger has a notch for an exterior gas stub. Owner is engaging a licensed Ohio plumbing contractor (per ORC § 4740) to remove or cap the stub as needed so that the new ledger can be installed continuous with no utility interference.
-
-Notching limits that would prohibit preserving the current penetration in the new ledger:
-
-| Topic | Section |
-|---|---|
-| Notching / boring limits in sawn lumber | IRC R502.8 |
-| Ledger continuous-contact / flashing requirement | IRC R507.9 |
