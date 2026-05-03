@@ -1,9 +1,9 @@
 ---
 title: "Outside"
 weight: 1
-tasks_completed: 45
-tasks_in_progress: 8
-tasks_planned: 36
+tasks_completed: 46
+tasks_in_progress: 10
+tasks_planned: 34
 ---
 
 # Outside
@@ -13,8 +13,9 @@ tasks_planned: 36
 - ✅ Apply for permit <!-- small -->
 - 🔄 Iterate until permit approval <!-- medium -->
 - 🔄 Identify and purchase new building supplies <!-- small -->
-- ⏳ Remove old deck <!-- medium -->
-- ⏳ Prep rim joist/house for new ledger <!-- small -->
+- ✅ Remove old deck <!-- medium -->
+- 🔄 Remove old posts and footers <!-- large -->
+- 🔄 Prep rim joist/house for new ledger <!-- small -->
 - ⏳ Dig new holes for posts <!-- medium -->
 - ⏳ Install new posts <!-- medium -->
 - ⏳ Clean up gravel and add new if needed <!-- small -->
