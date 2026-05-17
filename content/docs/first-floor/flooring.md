@@ -3,7 +3,7 @@ title: "Flooring"
 weight: 1
 tasks_completed: 58
 tasks_in_progress: 7
-tasks_planned: 4
+tasks_planned: 6
 ---
 
 # Flooring
@@ -39,6 +39,7 @@ LVP flooring installation throughout the first floor, including baseboards and t
 - ✅ Front door shoe molding <!-- quick -->
 - ✅ Garage door entrance shoe molding <!-- quick -->
 - 🔄 Kitchen cabinet shoe molding <!-- quick -->
+- ⏳ Trim 3 kitchen baseboards with square end terminations to fit behind shoe molding <!-- small -->
 - ⏳ Stain micro-molding around base of banister <!-- quick -->
 - ⏳ Install micro-molding around base of banister <!-- medium -->
 

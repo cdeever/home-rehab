@@ -3,7 +3,7 @@ title: "Kitchen"
 weight: 1
 tasks_completed: 58
 tasks_in_progress: 1
-tasks_planned: 2
+tasks_planned: 0
 ---
 
 # Kitchen
@@ -42,9 +42,6 @@ tasks_planned: 2
 
 ## Countertops
 - ✅ Replace counter tops <!-- small -->
-
-## Flooring
-- ⏳ Trim 3 baseboards with square end terminations to fit behind shoe molding <!-- small -->
 
 ## Appliances
 - ✅ Install above oven microwave <!-- small -->
