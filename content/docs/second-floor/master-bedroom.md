@@ -1,8 +1,8 @@
 ---
 title: "Master Bedroom"
 weight: 4
-tasks_completed: 4
-tasks_in_progress: 15
+tasks_completed: 6
+tasks_in_progress: 13
 tasks_planned: 2
 ---
 
@@ -16,7 +16,7 @@ tasks_planned: 2
 - ✅ Replace knobs and hinges <!-- quick -->
 
 ## Painting
-- 🔄 Paint ceiling <!-- small -->
+- ✅ Paint ceiling <!-- small -->
 - 🔄 Patch, prime and repaint walls <!-- medium -->
 - ⏳ Paint trim <!-- small -->
 

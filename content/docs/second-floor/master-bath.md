@@ -1,9 +1,9 @@
 ---
 title: "Master Bath"
 weight: 3
-tasks_completed: 31
+tasks_completed: 32
 tasks_in_progress: 9
-tasks_planned: 49
+tasks_planned: 51
 ---
 
 # Master Bath
@@ -55,11 +55,13 @@ tasks_planned: 49
 - ✅ Remove old flooring <!-- small -->
 - ⏳ Install new flooring <!-- medium -->
 - ⏳ Replace kickplate <!-- small -->
+- ⏳ Install baseboards and end pieces on cabinet base <!-- small -->
 - ⏳ Replace shoe molding <!-- small -->
 
 ## Vanity
+- ✅ Remove vanity top <!-- quick -->
 - 🔄 Prep and repaint vanity <!-- medium -->
-- ⏳ Replace vanity top <!-- small -->
+- ⏳ Install vanity top and sinks <!-- small -->
 - ⏳ Replace faucet fixtures <!-- small -->
 - ⏳ Replace vanity hinges with hidden style and add cabinet pulls <!-- small -->
 - ⏳ Install backsplash around vanity top <!-- small -->

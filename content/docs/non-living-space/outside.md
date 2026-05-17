@@ -1,8 +1,8 @@
 ---
 title: "Outside"
 weight: 1
-tasks_completed: 46
-tasks_in_progress: 10
+tasks_completed: 49
+tasks_in_progress: 7
 tasks_planned: 34
 ---
 
@@ -62,7 +62,7 @@ tasks_planned: 34
 
 ## Drainage
 - ⏳ Replace sump discharge pipe <!-- small -->
-- 🔄 Repair underground drainage line <!-- medium -->
+- ✅ Repair underground drainage line <!-- medium -->
 
 ## Landscaping
 - ✅ Replace overgrown bushes next to front door <!-- small -->
