@@ -26,29 +26,34 @@ Recurring upkeep organized by frequency, season, and month.
 - HVAC tune-up (AC pre-season service)
 - Refrigerator coil and grille clean
 - Sump pump test
+- Gutter cleaning (early spring)
+- Test lawn drainage: check grading, downspout extensions, and runoff after rain
 - Landscape cleanout
 
 ### April
 - Carve edges
 - Tree and shrub trim
+- Overseed thin or bare patches (spring window)
 - Pressure wash house and sidewalk
 - New mulch
 - Dryer vent cleaning
-- Gutter cleaning (post-pollen)
 - Wash exterior and interior windows + screens
 - Ceiling fans: dust and set summer direction (counterclockwise)
 - Washer and dishwasher deep clean cycle
 
 ### May
+- Exterior paint and caulk touch-up (after spring pressure wash)
 - Sidewalk edging
 - Deck inspect, clean, stain or seal as needed
 - Outdoor furniture clean and set out
+- Wash garbage and recycle bins (before summer heat)
 - Refrigerator water filter replacement
 
 ## Summer
 
 ### June
 - Lawn fertilizer
+- Preventive grub control (before mid-June egg-laying window)
 - Furnace filter change
 - Caulk inspection (kitchen, bath)
 - Grout sealing where worn
@@ -60,13 +65,14 @@ Recurring upkeep organized by frequency, season, and month.
 - Washer and dishwasher deep clean cycle
 
 ### August
-- Wash garbage and recycle bins
 - Range hood filter degrease
 - Vacuum/clean refrigerator water pan area
 
 ## Fall
 
 ### September
+- Lawn aeration
+- Overseed thin or bare patches (primary window)
 - Lawn fertilizer
 - Furnace filter change
 - Sidewalk edging touch-up
@@ -77,16 +83,17 @@ Recurring upkeep organized by frequency, season, and month.
 ### October
 - Leaf cleanup
 - Roof and flashing inspection
-- Fall gutter cleaning (post leaf-drop)
 - Caulk and weather stripping inspection (windows, doors)
 - Ceiling fans: set winter direction (clockwise)
 - Refrigerator water filter replacement
 - Washer and dishwasher deep clean cycle
 
 ### November
+- Final lawn fertilizer (winterizer)
+- Gutter cleaning (late fall, post leaf-drop)
+- Wash garbage and recycle bins (clean going into winter)
 - Mower winter prep: drain fuel or add stabilizer, disconnect/remove battery, clean deck, sharpen blade for next year
 - Pressure washer winter prep: drain pump, add pump saver/antifreeze, drain fuel or add stabilizer, disconnect and drain hoses
-- Final lawn fertilizer (winterizer)
 - Drain and store outdoor hoses
 - Shut off and drain outdoor faucets
 - Replace smoke detector batteries
