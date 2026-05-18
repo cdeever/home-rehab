@@ -6,15 +6,7 @@ excludeFromProgress: true
 
 # Maintenance
 
-Recurring upkeep organized by frequency, season, and month.
-
-## Weekly (Growing Season)
-- Mow lawn (Mar–Nov)
-
-## Monthly
-- Test smoke and CO detectors (press test button)
-- Freshen garbage disposal (ice cubes + citrus rinds)
-- Wipe washer gasket and detergent drawer
+Recurring upkeep organized by season and month, with weekly and monthly tasks at the bottom.
 
 ## Spring
 
@@ -40,6 +32,8 @@ Recurring upkeep organized by frequency, season, and month.
 - Wash exterior and interior windows + screens
 - Ceiling fans: dust and set summer direction (counterclockwise)
 - Washer and dishwasher deep clean cycle
+- Pantry cleanout: check dates, restock, wipe shelves
+- Closet declutter and thin clothes (swap to spring/summer wardrobe)
 
 ### May
 - Exterior paint and caulk touch-up (after spring pressure wash)
@@ -87,6 +81,8 @@ Recurring upkeep organized by frequency, season, and month.
 - Ceiling fans: set winter direction (clockwise)
 - Refrigerator water filter replacement
 - Washer and dishwasher deep clean cycle
+- Pantry cleanout: check dates, restock, wipe shelves
+- Closet declutter and thin clothes (swap to fall/winter wardrobe)
 
 ### November
 - Final lawn fertilizer (winterizer)
@@ -117,3 +113,13 @@ Recurring upkeep organized by frequency, season, and month.
 - Deep clean behind/around dryer
 - Vacuum HVAC return grilles and registers
 - Plan spring projects, order any tooling or materials
+
+## Monthly
+- Test smoke and CO detectors (press test button)
+- Freshen garbage disposal (ice cubes + citrus rinds)
+- Wipe washer gasket and detergent drawer
+- Fridge cleanout: toss expired items, wipe shelves and drawers
+
+## Weekly
+- Cat litter change
+- Mow lawn (growing season, Mar–Nov)
